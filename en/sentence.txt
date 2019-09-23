@@ -1,0 +1,1170 @@
+
+# sample
+> After a bruised encounter with ..
+> In those far-off days
+> We may reasonably conclude that ..
+> It's widely believed that ..
+> I favor this flavor
+> Pride goes before fall
+> Except for the aforementioned restriction
+> at the end of wit     黔驴技穷
+> The harsh reality that ..
+> Long live the king (Long live ..)
+> I was happy to oblige
+> We felt out of touch
+> Thanks for sharing        谢谢配合
+> Charity begins at home    穷则独善其身, 达则兼顾天下
+> Outsiders see clearer     旁观者清
+> get the axe   被开除, 被解雇
+> Stay hungry, stay foolish     求知若饥, 虚心若愚
+> Life consist not in holding good cards, but in playing well those you hold.
+> Where the Trail ends
+> a nice documentary
+> Freedom isn't free
+> I always rooting ..
+> risen from x percent to x percent
+> We are all in the gutter, but some of us are looking at the stars [Oscar Wilde]
+> I will go out of this world the same way I came in, alone and with nothing
+> You don't think other people's understandings as nuts and bolts in that you are yourself of great account and proud as a king inside
+> The crux of the problem
+> Haste make mistakes   欲速则不达
+> Man proposes, God disposes.
+> I disapprove of what you said, but I will defend to the death your right to say it.
+> What would be its grounds for doing so
+> set/build up one's business
+> A growing number of ..
+> Far less certain
+> miracles happen every day
+> Why did you unleash all of your fuel on me    你为什么把我当出气筒
+> One wonders ..
+> The state of the art
+> By convention, ..
+> It's high time to ..
+> Life happens only once
+> please sb. soul   满足..的心灵
+> A and B, combined(coupled) with C
+> Just as inevitably,
+> pave the way
+> on the rope   濒于失败, 岌岌可危
+> As is depicted
+> still a ways off from
+> by press time
+> Back then
+> By some measures, ..
+> the worst cannot be ruled out
+> be linked to
+> it does add to overall picture of ..
+> .. instead ..
+> by my reckoning, ..
+> the grim state of ..
+> at critical moments
+> no sign of abating
+> Sitting on his hands as the situation spiraled out of control
+> by year's end
+> As a whole, ..
+> bitter rivalry
+> have every right to ..
+> But something slowly began to dawn on me
+> get .. in order
+> let .. down   (disappoint)
+> as the years roll on  (elapse)
+> grow modestly             小幅增长
+> draw(n) criticism
+> must follow through       必须坚持到底
+> lifted in stages          分阶段提升
+> familiar with the matter  与相关事件熟悉的..
+> as least thus far         至少到目前为止
+> .. are the ones who ..
+> mistake .. for ..         将..误认为..
+> We've pretty much gone as far sa we can go
+> It's long overdue to      它早就应该..
+> It is necessary/vitally imperative for us to ..
+> as a consequence, ..
+> Consequently, ..
+
+# grammar base
+> 主语从句
+    - It is adj./v. that ..
+
+> 宾语 (object)
+
+> 宾语从句 (object clause)
+
+> 定语 (attribute)
+    - 用于修饰 限定 说明名词 或 代词
+    - 主要有 adj. 此外还有 n. 代词 数词 介词短语 动词不定式(短语) 分词 或 定语从句
+    - 前置定语 用于被修饰词之前
+    - 后置定语 用于被修饰词之后
+
+> 定语从句 (relative clause)
+    - 亦称 关系从句 形容词性从句
+    - 跟在名词或代词(先行词)后进行修饰限定的句子
+    - 先行词 被定语修饰的词
+    - 通常只能放在被修饰词之后
+    - 结构 先行词 + 关系(代)词 + 从句
+    > 定语从句中句子成分是不完整的
+
+> 状语 (adverbial adv.)
+    - 谓语里的另一个附加成分
+    - 主要对谓语中心词进行修饰 限制
+    - 状语修饰动词 形容词 副词 或 整个句子
+
+> 状语从句 (adverbial clause)
+    - 指句子作状语 起副词作用
+    - 修饰谓语 非谓语 动词 定语 状语 或 整个句子
+    - 一般以 conj. 引导 也可以由词组引导
+    - 根据其作用分为
+        - 时间 地点 原因 条件 目的 结果 让步 方式 和 比较 等从句
+        - 根据从句类型可以更加准确地插入适当辅助词 再进行翻译
+    - 从句位于句首或句中时通常用 逗号 隔开
+    - 从句位于句尾时可以不用 逗号 隔开
+
+> 表语 (Predicative)
+    - 说明主语的身份 性质 品性 特征 状态
+    - n. adj. adv. 介词短语 vn. 不定式 从句
+> 表语从句
+
+> 同位语
+    - 一个名词(或其他形式)对另一个名词(或代词)进行解释说明
+    - 同位语与被它限定的词格式要一致, 并常常紧挨在一起
+    - 可逗号隔开
+        - Mr. Smith, our new teacher, is very kind to us. (our new teacher)
+    - 也可不用逗号隔开
+        - He told me that his brother John was a world-famous doctor. (his brother)
+
+> 同位语从句
+
+# 1 find out main branch in long sentence
+>>>
+> three phase of analysis:
+    - conj.
+    - v.
+    - prep.
+> conj.
+    > 并列连词
+        - and or but yet
+        - w + that (w: who what where ..)
+        - 同型相连 (词连词 句连句)
+        - 从后往前找相同 效率更高
+        - N 个句子必有 N - 1 个连词
+        - 连接从句
+        > 无词义 不做成分
+            - that if whether
+        > 连接代词
+            - who whom whose what which whatever whoever whichever
+        > 连接副词
+            - when where why how however whenever wherever
+        > for conj.因为
+              prep.为了
+        > as  conj.像..一样, 当..时, 因为, 尽管
+              prep.作为
+
+> v.
+    - 谓语动词 非谓语动词
+    - 一个句子可以没有主语或宾语 但不可以没有谓语
+    - 连词后若有谓语动词 说明连词前也必有
+> prep.
+    - in on at of off with
+    - 介词引导的成分永远不作'主干'
+    > 作定语 译为'..的'
+    > 部分介词可在句子中充当连词, 意思会改变!
+        - for since
+
+> avb.
+    - 状语引导的从句 主从主语相同可省略从句'主语'和'be动词'
+
+> Subject Clause (主语从句)
+    - 'That god is a girl' is obvious  头重脚轻
+    - It is obvious that god is a girl
+    - It is adj./v.ed + that/to do
+
+> Object Clause (宾语从句)
+    - I believe <that god is a girl>
+
+> Imperative Sentence (祈使句)
+    > be + adj./n.
+        - Be quiet for a moment
+    > nv. + ..
+        - Make your own rules
+    > let + obj. + vp. + ..
+        - Let's run to the police station on fourth street
+        - Please wait
+    > Don't + vp.
+        - Don't eat in the classroom
+    > Let's + not + vp.
+        - Let's not say anything about it
+    > never + ..
+        - Never judge a person by looks
+
+# 2 find out the trunk
+>>>
+> 独立主格结构
+    - 前后句子主语不一致
+    - (With) + n.(和主干主语不同) + 分词 + ..
+    - ZW who is a sordid man that teaching English in NOS with his saliva drooling from his mouth
+        is reading a book named JPM.
+
+    - Sentence Evolution
+        - When I finish my homework, I start to watch TV.
+          conj. + sentence1 + , + sentence2
+                  sentence1 + , + sentence2
+             anti-sentence1 + , + sentence2
+
+    - Finishing my homework, I start to watch TV.
+
+    - When T finishes his homework, Z starts to watch TV.
+      T finishing his homework, Z starts to watch TV.
+
+    - ATM: Transaction is in process, please wait.
+    - 后者为祈使句, 动词原型不可修改, 则改动前一个句子中的谓语动词
+    - ATM: With transaction being in process, please wait.
+
+# 3 non-trunk
+>>>
+> 排除非主干则剩下主干
+> 了解结构间的逻辑关系
+> 三种结构
+    - sentence , sub. v. obj.        状语从句 介词结构 分词结构 独立主格
+    - sub. , sentence v. obj.        副词
+    - sub. v. obj. , sentence        定语从句 名词结构
+
+> 第一类
+    - 状语从句 介词结构 分词结构 独立主格 副词
+    - 状语的灵活性
+> 第二类
+    - 定语从句 名词结构
+
+> 状语从句
+    - When I was young, I could play football.
+    - When young, I could play football. (omit sub. and bv.)
+
+> 介词结构
+    - On Sunday morning, we go to school.
+
+> 分词结构
+    > structure: sentence, sub. v. obj.
+    > 主干在分词结构句型后面
+
+    - Finishing my homework, I start to watch TV.
+    - structure: Doing sth., sb. do sth.
+
+    - Sentenced to death, he went to prison.
+    - proto: When He was sentenced to death, he went to prison.
+    - structure: Done(ved.) sth., sb do sth.
+
+> 独立主格
+    > 前后主语不同, 相互独立
+    - structure: with n. ptc.
+    - He finishing his homework, I start to watch TV.
+    - 独立主格:       sentence1 , sentence2 (句子 1 和句子 2 主语不同)
+
+> adv.
+    - Surprisingly , he is still alive.
+    -       adv. , sentence
+    - also: adj. , sentence
+
+    - 生是你的人, 死是你的鬼.
+    - My body belongs to you, dead, I'm your butterfly.
+
+> 定语从句
+    - Beijing, which is a moving city is my hometown.
+
+> 名词结构
+    - Beijing, a beautiful city is my hometown.
+    -  omit: which is
+    - 同位语: moving city
+
+> sample
+    - When I was young, I'd listen to the radio, waiting for my favorite song. [Yesterday Once More]
+        - When I was young              状语从句
+        - I'd listen to the radio       主干
+        - waiting for my favorite song  分词结构
+
+# 4 non-trunk
+>>>
+> sample
+    > 注意判别句子之间的状态关系, 如因果关系, 这对翻译非常重要.
+    > Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it's useless.
+        - Shielded by .. care           分词结构 (sentence , sub. v. obj.)
+        - we demand everything          主干
+        - that can possibly .. for us   定语从句
+        - even if it's useless          状语从句 (sub. v. obj. , sentence)
+    > Hunting for a job late last year, lawyer Gant Redmon stumbled across CareerBuilder, a job database on the Internet.
+        - Hunting .. last year      分词结构 (sentence, sub. v. obj.)
+        - lawyer .. CareerBuilder   主干
+        - a job .. Internet         名词结构 (sub. v. obj., sentence)
+            - proto: CareerBuilder, a job database on the Internet.
+    > But with homework counting for no more 10% of their grades, students can easily skip half the homework
+      and see very little difference on their report cards.
+        - 一个逗号时结构可能为 sentence, sub. v. obj. / sub. v. obj., sentence
+        - skip and see  谓语动词并列
+        - But with .. grades        非主干, 独立主格 sub. = homework (根据前后主语是否一致判断)
+        - students can .. cards     主干
+        - with homework counting    with n. ptc. = 独立主格
+        - structure: sentence, sub. v. obj.
+    > Physicians--frustrated by their inability to cure the disease and fearing loss of hope in the patient--too often offer
+      aggressive treatment far beyond what is scientifically justified.
+        - 破折号   与逗号作用差不多
+        - frustrated    分词结构 (与主语之间的被动语态)
+        - far beyond    远远超过
+        - frustrated .. patient                 分词结构 (sentence sub. v. obj.)
+        - Physicians too often .. justified     主干
+    > But, for a small group of students, professional training might be the way to go since well-developed skills, all other
+      factors being equal, can be the difference between having a job and not.
+        - 但是, 对于一小部分学生而言, 专业的训练可能是一种出路, 因为在其他因素都相同的情况下, 发展好的技能和其他同样因素, 会在有和没有工作之间存在差异.
+        - for a small group of students (介词结构, for 在此处充当介词)
+            - 介词结构: sentence(for ..), sub. v. obj.
+            - main branch: professional training ..
+        - since    prep.自从, 以来
+                   conj.因为, 既然, 既是 (in this case, 'since' as a conjunction)
+        - can be 谓语动词
+        - since all other factors being equal, well-developed skills, can be the difference ..
+            - 独立主格结构
+            - 第一个句子中 factors 为主语
+            - 第二个句子中 skills 为主语
+    > Sad to say, this project has turned out to be mostly low-level findings about factual errors and spelling and grammar mistakes,
+      combined with lots of head scratching puzzlement about what in the world those readers really want.
+        - 这个项目结果大部分都是一些肤浅的发现, 诸如事实错误和拼写语法错误, 和这些低层次发现交织在一起的是还有许多令人抓狂的困惑, 譬如读者到底想读什么.
+        - this project .. mistakes, combined with ..
+            - 定语从句: sub. v. obj. , sentence
+        - 普通表达方式: A, B and C
+        > 本句表达方式: A and B, combined(coupled) with C    < get
+    > In recent years, railroads have been combining with each other, merging into super systems, causing heightened concerns about monopoly.
+        - 近些年, 铁路部门一直都在进行相互合并, 进而组成了超大型集团, 从而引起了人们对垄断行为的极大关注.
+        - sub. v. obj. , sentence, sentence, sentence (三个状语从句)
+        - 状语从句放在句首表示'原因', 句末表示'结果'
+        - 句子后半部分递进结果
+        - have been v.ing 一直在..
+        - each other 相互, 彼此
+    > In 1968, the Congress of the United States passed the Jury Selection and Service Act, ushering in a new era of democratic reforms for the jury.
+        - 在1968年, 美国国会通过了<陪审团选举与服务行为>法案, 从而开启了陪审团制度民主改革的新纪元.
+        - sub. v. obj. , sentence
+        - usher     引座员, 接待员 (synonym: guide)
+                    v.引导, 招待, 迎接, 开辟
+    > Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or
+      predict a drug's efficacy.
+        - 如今企业正在研究基因之间是如何交互的, (为了)寻找基因之间的交互关系, (而)这些联系可能用于确认疾病的病因或者预测药物的医疗效果.
+        - sub. v. obj. , sentence
+        - 宾语从句: how genes interact
+        - 定语从句: that might be .. (修饰 correlations)
+        - decease
+        - disease
+    > A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes
+      that help forecast a woman's risk of breast cancer.
+        - 联邦上诉法院推翻了前面的判决, 裁定 MG 这家企业的确可以持有两个能够帮助预测女性乳腺癌的基因专利.
+        - sub. v. obj. , sentence
+        - A federal appeals court ruling that ..
+        - indeed 确实, 果真, 的确
+    > When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red,
+      which was associated with strength.
+        - 当幼儿园的颜色被介绍时, 粉色实际上被认为是更雄性的颜色, 粉色是红色的柔和版本, 而红色则与力量相关.
+        - sentence , sub. v. obj. , sentence , sentence
+        - When      conj. 状语从句
+        - nursery   托儿所, 幼儿园
+
+# 5 article analysis
+    - conj.
+    - v.
+        - 分析 时态 or 原型
+        - 分析 谓语 or 非谓语
+        - v.ed 分析作用 动词 or 形容词
+            - 动词 继续分析作 过去式 or 过去分词
+                - 过去式    主动
+                - 过去分词  被动
+            - 形容词
+                - adj. 修饰名词时一般放在名词前面
+                - involved / concerned 修饰名词时是放在名词后面
+
+    > In the last half of the nineteenth century "capital" and "labour" were enlarging and perfecting their rival organisations on modern lines.
+        - 在十九世纪后半叶中, 资本和劳力在扩大和完善它们在现代流水线上的竞争机构
+    > Many an old firm was replaced by limited liability company with a bureaucracy of salaried managers.
+        - 很多老企业被有限责任公司以工薪管理者的官僚主义所代替
+    > The change met the technical requirements of the new age by engaging a large professional element and prevented the decline in efficiency
+      that so commonly spoiled the fortunes of family firms in the second and third generation after the energetic founders.
+        - 通过吸引大量的专业人士来满足了新时代的技术要求, 并且这种变化还阻止了效率方面的衰退.
+        - The change met (过去式和过去分词一样的词, 统称为 v.ed)
+            - 过去式    在句子中成分是 谓语动词
+            - 过去分词  在句子中成分是 非谓语动词 (不能做句子谓语), 此时作用为在非主干中修饰限定
+            - 区分依据  若该动词与前面名词之间是一种被动关系则为过去分词, 主动关系则为过去式
+            - 此处译为 满足
+        - and prevented ..
+            - engaging 时态与 prevented 不同, 所以此处 prevented 并列的应该是 met.
+        - that so commonly .. 定语从句
+        - 定语从句的判断
+            - that 引导的句子成分不完整 (缺主语或宾语)
+            - 定语从句修饰的成分没有就近原则 (此句中既不是修饰 efficiency 也不是修饰 change)
+            - 所修饰的成分是不能跨越谓语动词的
+            - 将怀疑词代入语境 (efficiency and decline, decline 更准确)
+        - 定语从句的翻译
+            - 将从句部分与前面分离
+            - 重复翻译定语从句所修饰的名词, 再与从句相连
+            - 本句: '这种下降'往往会破坏家族公司的财富.
+        - spoil     赃物
+                    v.溺爱, 宠爱, 毁坏, 破坏
+
+# 6 article analysis
+    > The railway companies, though still private business managed for the benefit of shareholders, were very unlike old family business.
+        - 铁路公司与旧式家族企业有很大差异, 虽然铁路公司仍然是为了股东利益而管理的私有企业.
+        - sub. , sentence , v. obj.
+        - The railway companies were very unlike old family business
+        - though  conj. 引导状语从句
+        - 状语从句的省略
+            - 前后句子主语一致可省略
+            - 从句的谓语动词若是 bv. 则可以省略
+            - 故省略前: though railway companies were still private business managed for the benefit of shareholders
+        - business managed  v.ed  (接上句知识点)
+            - 区分此时是过去式还是过去分词
+    > Such large, impersonal manipulation of capital and industry greatly increased the numbers and importance of shareholders as a class,
+      an element in national life representing irresponsible wealth detached from the land and the duties of the landowners; and almost equally
+      detached from the responsible management of business.
+        - manipulation increased the numbers and importance
+        - shareholders as a class 作为一个阶层的股东
+        - increased     v.ed
+            - 此处根据语境为主动语态, 作谓语动词
+        - sub. v. obj. , sentence
+        - sentence 名词结构 (an element in ..)
+            - 修饰名词时一般放在名词后面修饰
+            - 名词结构示例: Beijing, (which is) a beautiful city is my hometown.
+            - 在本句中:     A class, (which is) an element in national life ..
+        - an element representing wealth detached from .. and detached from ..
+        - in national life 修饰 element
+        - detached from .. 修饰 wealth
+    > Towns like Bournemouth and Eastbourne sprang up to house large "comfortable" classes who had retired on their incomes, and who had no relation to
+      the rest of the community except that of drawing dividends and occasionally attending a shareholders' meeting to dictate their orders to the management
+        - sub. v. obj. , sentence
+            - Towns sprang up to classes , who ..
+        - sub.  Towns
+        - v.    sprang
+        - obj.  classes
+        - sentence 状语从句
+            - classes who had retired on their incomes
+            - classes who had no relation to the rest of the community
+            - except the rest of dividends and meeting
+            - meeting to dictate their orders to the management
+        - like  v.喜欢
+                prep.像
+        - sprang up     v.兴起, 涌现, 崛起
+            - sprang    v.跳跃, 弹起
+            - spring    温泉
+        - house         v.提供住所
+        - drawing dividends
+            - dividends
+        - dictate   v.口述, 听写, 命令, 主宰
+            - e.to give orders, or tell someone exactly what they must do, with total authority
+            - e.to influence something or make it necessary
+            - dictation
+    > The "shareholders" as such had no knowledge of the lives, thoughts of needs of the workmen employed by the company in which he held shares,
+      and his influence on the relations of capital and labour was not good.
+        - 工人们由股东所持股的公司所雇佣, 然而股东并不了解这些工人们的生活和需求想法, 因此他们对公司资本及劳动之间的关系所作出的影响并不好.
+        - 主干实际上有两个句子, 并列存在 (注意 conj. !)
+            - The shareholders .. had no knowledge of the lives, thoughts ..
+                - sub.      The "shareholders"
+                - v.        had no knowledge of  v.了解, 认识
+                - obj.      the lives, thoughts ..
+                - sentence  of needs of the workmen .. shares
+            - and his influence .. was not good
+        - 另外也可根据动词 employed 判断 (注意 v. !)
+            - 句子前部 had no knowledge of 作谓语动词
+            - 句子后部 employed 相同时态的 v.ed 不可能也是谓语动词,
+            - 则 employed 为非谓语动词, 在状语从句中修饰前面的 workmen
+            - 根据状语从句的语法补全句子
+                - the workmen who were employed by ..
+    > The paid manager acting for the company was in more direct relation with the men and their demands, but even he had seldom that
+      familiar personal knowledge of the workmen which the employer had often had under the more patriarchal system of the old family
+      business now passing away.
+        - 付薪经理在公司的行为与工人及他们的需求相对于股东有更直接的关系, 但是经理对工人的熟悉了解相对于已经不复存在的旧时父权制度家族企业中的雇主而言, 就没有那么了解了.
+        - The manager was in more direct relation
+        - but conj. 连词引导的状语从句中的对比关系
+            - he had seldom         现在的经理很少
+            - employer had often    以前的雇主经常
+        - he had seldom that ..
+            - that 可以引导所有类型从句
+            - 六大从句: 主语从句 宾语从句 表语从句 同位语从句 定语从句 状语从句(so that)
+            - 但是在此处 that 并没有引导任何从句
+                - 因为后续句子(that .. which)中根本没有谓语动词, 没有构成句子
+                - 所以此处只是回归最普通的意思...那个
+        - the knowledge which the employer had often had but manager had seldom
+            - had often had 第二个 had 对应的是上一句中的 had no knowledge of
+            - which .. 定语从句 (修饰前面的名词 knowledge)
+            - which 在此处不可能用于 workmen, 修饰 workmen 肯定得用 who 之类
+        - under ..    prep.
+            - 如果一个句子太常, 不妨先忽略介词引导的成分
+            - passing away  现在分词, 用于修饰前面的 the old family business
+            - 译为: 已经不复存在的旧式家族企业
+        - seldom        adv.很少, 不常, 难得
+        - patriarchal   adj.重男轻女的, 父权的, 族长的, 家长的
+    > Indeed the mere size of operations and the numbers of workmen involved rendered such personal relations impossible.
+        - involved  句中作 adj.
+            - adj.关系密切的, 与之相关的  (特别地, involved / concerned 修饰名词时, 是放在名词后面)
+        - rendered  才是句子真正的谓语动词
+            - v.使得
+        - the mere size and the numbers rendered relations
+        - 实际上如此庞大规模的操作以及相关的员工数量使得这种员工关系变得不可能
+    > Fortunately, however, the increasing power and organisation of the trade unions, at least in all skilled trades, enabled the workmen to
+      meet on equal terms the managers of the companies who employed them.
+        - 幸运地, 至少在所有成熟的行业中, 工会日益增强的权力和组织使得工人能以同等地位和雇佣他们的企业管理者们会面洽谈.
+    > The cruel discipline of the strike and lockout taught the two parties to respect each other's strength and
+      understand the value of fair negotiation.
+        - 罢工和停工的残酷条例教会了两党要尊重彼此的力量和明白公平谈判的价值.
+        - respect understand 并列
+
+# 7 clause relationship
+    > that
+        - that .. that .. and that
+            - 只能根据不同语境判断第三个 that 究竟是与第一个还是第二个 that 并列
+    > v. that
+        - object clause
+            - I believe that you can make it on your own.
+        - predicative clause
+            - The fact is that god is a girl.
+                - 与宾语从句相比, 表语从句判别依据: is 动词
+        - subject clause
+            - That god is a girl is obvious. (头重脚轻)
+                - 英语的特点 头轻脚重
+                - It's obvious that god is a girl.  (主语从句的常见形式)
+    > n. that
+        - 同位语从句
+            - I have a piece of news to you that you get an offer from Yale.
+                - news 与 you get an offer 都是名词, 作同位语
+                - that 从句后的句子成分完整 sub. v. obj.
+        - relative clause
+            - I have a piece of news to you that comes from Yale.
+                - 与同位语从句不同, that 引导的定语从句成分'不完整' v. obj.
+            - 综上, 主语从句 表语从句 宾语从句 同位语从句中 that 引导的从句句子成分都是'完整'的
+                - 从句成分完整统称为 名从
+            - 只有定语从句中成分是'不完整'的
+                - 从句成分不完整称为 定从
+    > However, for many years physicists thought that atoms and molecules always were much more likely to emit light spontaneously and
+      that stimulated emission thus always would be much weaker.
+        - 然而多年来, 物理学家们认为
+        - that atoms and .. light spontaneously
+            - 从句成分完整 表语从句 (v. thought)
+        - and that stimulated emission ..
+            - 从句成分也是完整的 !
+            - stimulated
+                - v.ed 判断 v. or adj. (本句中其实作 adj.)
+                    - v.激发, 刺激, 促进
+                    - adj.受到激发的
+            - 另外的判断依据
+                - and that 中 and 是与前一个 that 成并列关系 (thought that .. and that ..)
+                - 前一个 that 引导的句子成分完整, 故后一个 that 成分也肯定相同
+        - molecule  分子
+    > It appeared that Canada was once more falling in step with the trend toward smaller families that had occurred all through the Western world
+      since the time of the Industrial Revolution.
+        - that Canada was falling .. smaller families
+            - 名从 从句成分完整
+        - that had occurred all through the Western world
+            - 定从 成分不完整
+            > 修饰
+                - 将有可能被修饰的名词代入从句 trend families
+                - trend 更符合
+            - 译: 发生在整个西方世界
+            > 当多个 that 之间没有连词连接, 则前面的 that 是包含 后面的 that
+    > The history of clinical nutrition, or the study of the relationship between health and how the body takes in and utilizes food substances,
+      can be divided into four distinct eras: the first began in the nineteenth century and extend to the early twentieth century
+      when it was recognized for the first time that food contained constituents that were essential for human function and that different foods
+      provided different amounts of these essential agents.
+        - 临床营养的历史, 或者是对'健康与身体如何吸收和运用食物精髓'关系的研究, 可以划分成四个不同时期:
+        - 第一次始于19世纪并持续到了二十世纪早期, 这个时期(在那时)第一次发现了食物含有对人体功能至关重要的成分
+        - 且不同的食物对于这些重要成分所提供的数量是不相同的.
+        - it was recognized that food contained constituents
+            - 主语从句       'food contained ..' was recognized
+            - that food ..  成分完整 名从
+            - contained     v.ed
+                - 分析 v. or adj. (本句作 v.)
+        - constituents that were essential for human function
+            - 定语从句       were .. 修饰 constituents
+        - that food .. and that different ..
+            - it was recognized that food ..
+            - it was recognized that different ..
+        - that different food provided amounts..
+            - 成分完整 名从
+        - 括号法 便于划分层次关系
+            - { when it was ..
+            -       [ that .. constituents ( that .. function )]
+            -   and [ that .. agents ]
+            - }
+
+# 8 clause relationship
+    > Rather, we have a certain conception of the American citizen, a character who is incomplete if he cannot competently assess how his livelihood
+      and happiness affected by things outside of himself.
+        - we have a conception    sub. v. obj.
+        - conception, a character who ..
+            - 非主干名词结构 Beijing, a beautiful city is my hometown.
+        - 层次分段
+            - {who is .. [ if he .. assess ( how his .. himself ) ] }
+            - outside of himself.
+        - livelihood and happiness
+            - happiness that affected by things outside of himself
+        - competently 胜任地, 合适地
+        - 我们对美国公民有一定的想法, 他必须准确判断自身的生活和幸福是如何受到外界影响的, 否则他的公民特征就是不完整的.
+    > Many Americans regard the jury system as a concrete expression of crucial democratic values, including the principles that all citizens
+      who meet minimal qualifications of age and literacy are equally competent to serve on juries; that juries would be selected randomly
+      from a representative cross section of the community; that no citizen should be denied the right to serve on a jury on account of race,
+      religion, sex, or national origin; that defendants are entitled to trial by their peers, and that verdicts should represent the conscience of
+      the community and not just the letter of the law.
+        - 很多美国人将陪审团体系视为是核心民主价值观的一种具体表现, 制度包括以下规则:
+        - 所有满足最小年龄资格以及文化水平足以胜任陪审员工作的公民,
+        - 陪审团会在社区的交叉区域代表中随机选取符合条件的公民成为陪审团中的一员;
+        - 没有公民会因为种族, 信仰, 性别, 或者原生国而剥夺他成为陪审员的权利,
+        - 被告有权利被与他们同行的陪审员审讯, 且审判裁决应该代表社区的道德准则而不仅仅是法律的一纸公文.
+        - the jury system including the principles ..
+        - principles that all .. that no citizen .. that defendants ..
+            - principles that   n. + that
+                - 名词 + that 只有两种从句: 定语从句 or 同位语从句
+                - 从句成分完整, 故此处是 同位语从句
+            - all citizens who ..juries; that juries .. community;  并列 that
+                - citizens .. are serve on juries
+            - that defendants .. and that verdicts .. the law.      并列 that
+        - verdicts should .. and not ..
+        - regard .. as ..
+        - meet  v.遇见, 满足
+        - literacy  文化, 读写能力
+        - on account of     由于, 因为
+        - conscience        良心
+    > Although it ruled that there is no constitutional right to physician-assisted suicide, the Court in effect supported the medical principle of
+      "double effect", a centuries-old moral principle holding that an action having two effects--a good one that is intended and a harmful one that
+      is foreseen--is permissible if the actor intends only the good effect.
+        - 虽然法庭裁定医生辅助的自杀没有宪法权利, 但是法庭实际上支持具有'双重效果'的医学原则
+            - 医生辅助自杀 (安乐死)
+        - 该医学原则是一个有着数百年历史的道德原则, 认为一种行为有两种效果: 一个想要达到的好的效果和一个可预见的有害的效果
+        - 当行为人只想要好的效果时, 这种行为才会被允许.
+        - Although  conj.虽然, 尽管
+        - The Court ruled that ..
+        - court supported principle
+            - sub. v. obj.
+        - the medical principle, a centuries .. 名从
+            - which is a centuries ..
+            - a principle holding that .. (如上面的 an element representing ..)
+            - holding that .. (宾语从句: 主谓宾结构完整)
+        - an action is permissible if ..
+        - rule  规则, 法则, 统治
+                v.裁定, 统治
+        - physician 医生
+        - physics   物理
+        - physical  体格检查
+                    adj.物理的, 物质的, 身体的
+        - medical   医生, 医疗
+                    adj.医学的, 药的, 内科的
+
+# 9 article analysis (economy 2000)
+    > 阅读不仅仅是单纯的翻译, 更重要的是关联段内之间逻辑关系!
+    > A history of long and effortless success can be dreadful handicap, but, if properly handled, it may become a driving force.
+        - 悠久而轻松的成功历史可能是一个可怕的障碍, 但是如果处理得当, 这种障碍可能会成为一种驱动力.
+        - dreadful  adj.可怕的, 糟透的
+        - handicap  障碍, 不利条件
+        - positive review
+    > When the United States entered just such a glowing period after the end of the Second World War II, it had a market right times larger than
+      any competitor, giving its industries unparalleled economies of scale.
+        - 尽管美国在第二次世界大战之后进入了这样的一个辉煌时期, 它有着比其他任何竞争者都充裕的市场权利时间, 这给它的行业带来了无与伦比的规模经济.
+        - unparalleled
+            - parallel
+        - positive review
+    > Its scientists were the world's best, its workers the most skilled.
+        - 它有着世界上最好的科学家, 最富有经验的工人.
+        - positive review
+    > America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed.
+        - 美国和美国人的繁荣已经到了欧洲和亚洲做梦都不到的地步, 而欧洲和亚洲的经济被战争摧毁掉了 .
+        - positive review
+        > 综上, 上面四句可以合并成一个观点: America, Americans and it's economy is prosperous.
+    > It was inevitable that this primacy should have narrowed as other countries grew richer. Just as inevitably,
+      the retreat from predominance proved painful.
+        - 无可避免的是当其他国家变得富有的时候这种优势正在缩小. 从统治地位退下是很痛苦的.
+        - narrow    adj.狭窄, 窄, 狭小
+                    v.缩小
+        - negative 文章此处开始转折
+    > All of this caused a crisis of confidence. Americans stopped taking prosperity for granted. They began to believe that their way of
+      doing business was failing, and that their incomes would therefore shortly begin to fall as well. The mid-1980s brought one inquiry
+      after another into the causes of America's industrial decline. Their sometimes sensational findings were filled with warnings about
+      the growing competition from overseas.
+        - 所有的这些导致了信任危机. 美国人不再认为繁荣是理所当然的. 他们开始相信他们做生意的方式是错误的, 且他们的收入很快也会开始因此而减少.
+        - 20世纪80年代中期对美国工业衰退的原因进行了一次又一次的调查
+        - 他们有时耸人听闻的调查结果充满了对海外日益激烈竞争的警告.
+        - take .. for granted   将..视为理所当然
+        - believed that their .. failing, and that their .. well.
+        - inquiry
+        - brought one A after another into
+        - one after another     先后, 相继, 依次
+    > How things have changed! In 1995 the United States can look back on five years of solid growth while Japan has been struggling.
+      Few Americans attribute this solely to such obvious causes as a devalued dollar or the turning of the business cycle.
+      Self-doubt has yielded to blind pride.
+        - 已经物是人非了! 在1995年美国可以回顾稳健增长的那五年, 那时候日本一直在苦苦挣扎.
+        - 很少有美国人将此归因于美元贬值或商业周期转变等明显原因.
+        > 自我怀疑已经屈服于盲目自信.
+        - solid     adj.稳固的, 扎实的
+        - solely    adv.独自地, 光是
+    > "American industry has changed its structure, has gone on a diet, has learnt to be more quick-witted," according to Richard Cavanaugh,
+      executive dean of Harvard's Kennedy School of Government. "It makes me proud to be an American just to see how our businesses are improving
+      their productivity," says Stephen Moore of the Cato Institute, a think-tank in Washington, D.C. And William Sahlman of the Harvard Business
+      School believes that people will look back on this period as "a golden age of business management in the United States".
+        - "美国行业已经改变了它的结构, 企业瘦身削减, 学着变得更加明智", 据RC说, RC是哈佛肯尼迪政府学院的行政院长.
+        - "作为一名美国人, 看到我们的企业正在提高生产率, 我感到很自豪", 卡托研究所(华盛顿特区的一个智囊团)的SM说,
+        - 并且哈佛商学院的WS认为人们在回顾这一时期的时候会将其视为这是"美国商业管理的黄金时代".
+        > Self-doubt has yielded to blind pride   '承上启下'的作用至关重要
+            - 承上: 上一段描述了美国人的自我怀疑
+            - 启下: 所以这一段内容描述的全部都是美国人的盲目自信 所以这段内容也是负面评价!
+
+# improvement
+    > A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage,
+      raised serious questions about both Vermont Yankee's safety and Entergy's management especially after the company made misleading statements
+      about the pipe.
+        - 一系列的事故, 包括2007年冷凝塔的局部坍塌事件以及地下管道系统泄漏的发现, 都让佛蒙特州杨基公司的安全和能源管理问题引发强烈的质疑,
+        - 尤其在该公司对于管道作出了误导性的声明之后.
+        - A string of accidents, .., raised questions
+            - sub. , sentence , v. obj.
+        - after the company .. the pipe.
+            - 状语从句, 可先提前翻译
+
+    > Today, professors routinely treat the progressive interpretation of history and progressive public policy as the proper subject of study
+      while portraying conservative or classical liberal ideas--such as free markets and self-reliance--as falling outside the boundaries of routine,
+      and sometimes legitimates, intellectual investigation.
+        - 当描绘保守或传统文化观点时(譬如自由市场和自我依赖), 专家们通常将历史的前沿解释和前沿公共章法当作合适的学习主题,
+        - 也将此当作不合常规的有时合法的关于智力的调查.
+        - Today, professors treat history and policy as subject while portraying ideas, as investigation.
+        - while 的作用
+            - 省略
+            - 前后强烈的对比关系 或 肯定否认关系 (如本句)
+                - routinely 对比 falling outside the boundaries of routine
+                - proper 对比 sometimes legitimates
+
+    > In 2010, leading congressional Democrats and Republicans sent letters to the AAAS asking that it identify actions that could be taken by
+      "federal, state and local governments, universities, foundation, educators, individual benefactors and others" to "maintain national excellence
+      in humanities and social scientific scholarship and education".
+        - America Constitution
+            - legislation 立法    >    Congress 国会
+            - Court       司法    >    supreme court 最高法庭 / federal court 联邦法庭
+            - Authority   政府 / Agency  政府
+            - policy      政策, 方针
+            - measure     措施
+            - legitimate    adj.合法的, 正当的, 合理的
+        - sub. v. obj. , sentence
+            - sentence: v.ing that it identify ..
+            - it = AAAS
+        - asking that it identify actions that could be ..
+            - the actions could be taken by .. 可以由..采取的行动(行为)
+            - that it identify actions  成分完整     宾语从句
+                - it 形式主语 后应该跟动词 s / es
+                - 此处实际上省略了虚拟语气 it should identify actions
+            - that could be ..          成分不完整   定语从句
+
+    > But it's interesting to wonder if the images we see every week of stress-free, happiness enhancing parenthood aren't in some small, subconscious
+      way contributing to our own dissatisfaction with the actual experience, in the same way that a small part of us hoped getting "the Rachel"
+      might make us look just a little bit like Jennifer Aniston.
+        - 我们每周所见到的没有压力的, 幸福的父母的形象以一种潜移默化的方式导致了我们现实生活的不满,
+        - 就好比我们希望可以剪一个瑞秋那样的发型可以让我们看起来有一点点像简妮弗安妮斯顿.
+        - if .. aren't  可以直接翻译为 是否有..
+        - in the same way 以同样的方式.. / 就好比 ..
+        - if the images contributing to dissatisfaction
+
+    > Look up Homo sapiens in the "Red List" of threatened species of the International Union for the Conversation of Nature (IUCN), and you will
+      read: "Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats
+      resulting in an overall population decline."
+        - 在国际自然环境联盟的受威胁物种"红名单"上查找智人, 你会读到: "智人被列为最不需要关注的物种, 因为该物种分布非常广泛, 适应能力强, 目前数量正在不断增加,
+        - 并且没有重大威胁导致其总体种群数量的下降."
+        - threaten  v.威胁, 要挟, 恐吓
+        - threatened    v.ed 被动语态
+        > as .. as ..   (相似句型如下句: It is said that ..)
+            - as Least Concern
+                - 句子不完整, 省略了主语 + 谓语动词
+                - Homo sapiens was listed as Least Concern
+            - as the species is ..
+                - 句子完整, as 此处作连词, 连接前后两个句子.
+                - 根据语境, 此处 as 译为 "因为"
+
+    > It is said that in England death is pressing, in Canada is inevitable and in California optional.
+        - 省略主语 + 谓语动词, 将后面被省略的句子与前面成分完整句子一一对应还原
+        - death is pressing, death is inevitable and death is optional.
+
+    > Washington, who had begun to believe that all men were created equal after observing the bravery of the black soldiers during the
+      Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will.
+        - sub. v. obj.
+            - Washington overcame opposition
+        - in his will
+            - will 遗嘱, 遗愿
+        - 定语从句中也可以包含主干表达事件的'原因'.
+            - 即可以是问题中 because 提问的答案.
+
+    > Noting the medical/psychological nature of problem gambling behavior, the letter said that before being readmitted to the casino he would
+      have to present medical/psychological information demonstrating that patronizing the casino would pose no threat to his safety or well-being.
+        - 信上注明了异常赌博行为在医学/生理上的特征, 同时还注明了被赌场再次确认进入赌场之前, 他必须出示医学/生理上的信息证明: 光顾赌场将不会对他个人安全或身体构成威胁.
+        - v.ing , sub. v. obj.
+            - sub.  the letter
+        - readmitted
+            - re admitted
+
+    > Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive
+      to restore--and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands.
+        - 当然, 即便是对于最愚蠢的执行者而言, 很明显诚信会轻而易举地被摧毁且需要高昂的代价来恢复, 而诚信作为最有价值的经济财产, 没有什么比企业敏感数据泄露更能摧毁企业诚信了.
+        - that trust .. is easily destroyed and .. restore
+            - trust that most valuable of economic assets and that ..
+                - that most .. 同位语从句
+
+    > But the Nobel Foundation's limit of three recipients per prize, each of whom must still be living, has long been outgrown by the collaborative
+      nature of modern research--as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledge the discovery of
+      the Higgs boson.
+        - 诺贝尔基金会限制每个奖项最多三位获奖者, 且每位获奖者必须仍旧在世, 由于现代科学研究通力合作的特点使得这些限制早就过时了,
+        - 正如希格斯玻色子被发现时所表明的那样, 当时针对忽略了哪位发现者而产生了无可避免的分歧.
+        - recipients who still be living
+        - sub. v. obj.
+            - the Nobel Foundation's limit has long been outgrown ..
+            - has long been outgrown    早就过时了
+                - 表示否定
+                > 长难句中的否定有很多种表达方式, 注意.
+        - as will be demonstrated by ..
+            - As is depicted / as will be demonstrated  同样的使用方式
+        - row   分歧
+
+    > To encourage innovation and competition, the report calls for increase investment in research, the crafting of coherent curricula that
+      improve student's ability to solve problems and communicate effectively in the 21st century, increase funding for teachers and
+      the encouragement of scholars to bring their learning to bear on the great challenges of the day.
+        - 为了提高创新和竞争, 报告要求提高科研研究方面的投资经费, 精心制作连贯课程以提高学生在21世纪中解决问题和高效沟通的能力,
+        - 并提高教师的基金和奖学金的鼓励, 以此使得他们所学的能够应对当下巨大的挑战.
+        - To do .. 目的状语从句
+        - crafting  工艺, 手工艺
+                    v.精巧地制作, 加工制作
+        - curricula that improve ..
+            - 后置定语从句, 修饰 curricula
+        - to solve .. 后置定语从句
+        - curricula     (course)
+
+# composition
+> 多用词组表达
+> 多用代词
+> 作文通常使用一般现在时
+
+> 并列
+    > 同义 and, or, not only .. but also ..
+    > 反义 but, while, whereas
+
+    > 生产厂家保证生产高质量产品
+        - Manufacturer units guarantee to turn out products of good quality.
+    > 商业企业发誓提供真货和礼貌热情的服务
+        - Commercial enterprises swear to provide genuine commodities and polite and enthusiastic services.
+        - genuine / fake
+    > 生产厂家保证生产高质量产品; 商业企业发誓提供真货和礼貌热情的服务
+        - Manufacturer units .. good quality; commercial enterprises .. services. (combine by ;)
+
+    > 有些学生可以负担学费
+        - Some students are able to support the tuition fees.
+    > 有些学生自己或家里可以负担考研或出国的学费 (abroad/overseas)
+        - Some students or their families are able to support the tuition fees of postgraduate studies or studying overseas.
+    > 有些学生自己或家里可以负担考研或出国的学费, 而对有些人来说这些费用是一项沉重的负担
+        - Some students or their families are able to support the tuition fees of postgraduate studies or studying overseas,
+        - while for others it would be too much of a financial strain.
+
+> 定语从句 (形容词从句)
+    - 人 + who/whom/whose
+    - 物 + that/which
+    - 时间 + when
+    - 地点 + where
+
+    > 温室是溺爱和物质条件的缩影
+        - The greenhouse epitomizes doting care and material supplies.
+    > 温室是保护孩子免受风雨的父母溺爱和优越物质条件的缩影
+        - The greenhouse epitomizes parents' doting care and abundant material supplies
+        - that can shield the children from the storms.
+    > 温室是保护孩子免受风雨的父母溺爱和优越物质条件的缩影, 而风雨就是严峻的现实.
+        - The greenhouse epitomizes parents' doting care and abundant material supplies
+        - that can shield the children from the storms, or the harsh reality. (同位语)
+
+    > 这种不诚实行为还会产生严重的后果
+        - This misconduct results in severe consequences. (results in)
+        - result in & result from
+        < as a consequence, ..
+    > 这种不诚实行为还会产生严重的后果, 这很可能会影响将来的机会
+        - This misconduct results in severe consequences that may very well impact future opportunities and so on.
+    > 另外, 这种不诚实行为还会产生严重的后果, 如成绩上的惩罚, 暂时停学, 不良违纪行为记录, 这很可能会影响将来的机会
+        - In addition, this misconduct results in severe consequences, such as grade-related penalties, suspension, or
+        - an adverse disciplinary record that may very well impact future opportunities and so on.
+        < in addition, moreover, furthermore, besides, what is more ..
+
+    > 错误的决定会让学生面临着失望的就业前景
+        - Students who make the wrong choice could be faced with disappointing career prospects.
+    > 错误的决定会让学生面临着失望的就业前景, 或是到头来浪费了时间和金钱
+        - Students who make the wrong choice could be faced with disappointing career prospects, or end up wasting their time and money.
+
+    > 贝克汉姆代表了体育界英雄的形象
+        - Beckham represents the image of sport hero.
+        - Beckham serve as a symbol of sport hero.
+    > 贝克汉姆代表了体育界英雄的形象, 他的外表以及球技正是球迷追捧的
+        - Beckham represents the image of sport hero whose appearance football skills are adored by all the sports fans.
+    > 贝克汉姆代表了体育界英雄的形象, 他英俊的外表以及高超的球技正是球迷热情追捧的
+        - Beckham represents the image of sport hero whose handsome(smart) appearance and unparalleled football skills
+        - are passionately adored by all the sports fans.
+        < represents the image of
+
+    > 几个十几岁的女孩一夜成名
+        - Several teenage girls won their fame overnight.
+    > 2005年中国举办的"超级女生"比赛中, 几个十几岁的女孩一夜成名
+        - Several teenage girls won their fame overnight in The 2005 Super Girls Contest in China.
+    > 同样, 2005年中国举办的"超级女生"比赛中, 几个十几岁的女孩一夜成名, 围绕着崇拜这些偶像的意义和危害, 这个事件激起了全国性的争论
+        - Likewise, several teenage girls won their fame overnight in The 2005 Super Girls Contest in China,
+        - which provoked nationwide noisy debates on the value and harm of admiring these idols.
+        < the value and harm of .. 利与弊
+
+    > 中国的习俗和传统面临着消失的危险
+        - For China, there is a danger that customs and traditions may become lost.
+        < lost / perish
+    > 另一方面, 中国跟世界上其他快速发展的国家一样, 年久的习俗和传统面临着消失在现代化阴影里的危险
+        - On the other hand, for China, as for any other rapidly developing country, there is a danger that
+        - age-old customs and traditions may become lost in the shadows of modernization,
+
+    > 在贫困地区有两百万学龄儿童已经辍学
+        - There are over 2 million school-age children who have dropped out of school in poverty-stricken areas.
+        < drop out  辍学
+        - school-age
+        - poverty-stricken
+    > 然而根据最新统计, 在农村的贫困地区有两百万学龄儿童已经辍学
+        - Yet according to currently statistics, there are over 2 million .. in poverty-stricken areas of the countryside.
+        - countryside / rural
+
+    > 人生就像跑步的过程一样
+        - Life is like the process of running.
+    > 人们应该不断努力, 绝不停止进步
+        - One should make constant efforts and never stop making progress.
+        < People ~ One
+        - make progress
+        - make efforts & make progress
+    > 毫无疑问, 这幅漫画显示了人生含义: 人生就像跑步的过程一样, 人们应该不断努力, 绝不停止进步
+        - Undoubtedly, the cartoon conveys the meaning that life is like .. running in which one should .. making progress.
+        - There is no doubt that ~ undoubtedly ~ There is no denying that ~ in fact ~ indeed
+        - meaning ~ implication ~ symbolic
+        - cartoon ~ portrayal ~ drawing ~ caricature
+        - caricature 漫画, 讽刺漫画
+
+    > 成群的游客涌入很多景点
+        - A good many scenic spots are flooded with visitors.
+        - historical site   遗迹
+    > 成群的游客涌入很多景点, 制造并丢弃了大量的垃圾, 影响了大自然的美观
+        - A good many scenic spots are flooded with visitors, who spoil the beauty of nature by creating and leaving behind
+        - God-knows-how-much trash.
+        - leaving ~ discard ~ litter
+        - trash ~ garbage ~ litter ~ leftover ~ rubbish
+    > 从漫画中, 我们可以得出结论, 画家想要表达下述信息: 成群的游客涌入很多景点, 制造并丢弃了大量的垃圾, 影响了大自然的美观
+        - From the portrayal, we can conclude that the painter wants to convey such a message: a good many scenic ... trash.
+        - painter ~ cartoonist ~ photographer
+        - conclude ~ come to the conclusion ~ draw the conclusion
+
+> 原因状语从句
+    - because, in that, since, as, for (程度由高到底)
+
+    > 人们选择慢跑作为锻炼
+        - People choose jogging as their exercise.
+        - jogging
+    > 人们分别选择慢跑, 打篮球, 游泳, 滑冰, 爬山或骑车作为日常锻炼
+        - People respectively choose jogging, playing basketball, swimming, skating, climbing or riding as their regular exercise.
+        - regular ~ daily
+    > 人们分别选择慢跑, 打篮球, 游泳, 滑冰, 爬山或骑车作为日常锻炼, 这是因为这些运动总是使我们更强壮和精力充沛
+        - People .. exercise, because these exercises never fail to make us stronger and more energetic.
+        - always ~ never fail to
+        - common ~ not-uncommon
+
+    > 我保持均衡饮食
+        - I keep a balanced diet.
+    > 我保持均衡饮食, 而且晚上11点之前上床睡觉
+        - I keep a balanced diet and go to bed before 11 o'clock at night.
+    > 我保持均衡饮食, 而且晚上11点之前上床睡觉, 因为我相信熬夜对身体有害
+        - I keep a ... at night, because I believe burning the midnight oil is harmful to health.
+        - burning the midnight oil  燃烧午夜的灯油 (熬夜)
+
+    > 饮食和睡眠对于身体健康是不可或缺的
+        - Diet and sleep are indispensable for physical fitness.
+    > 大学生应该重视养成良好的习惯
+        - University students should put emphasis on good habits.
+        - Good habits should be attach importance to university students.
+        - university students ~ college students
+        < put (great) emphasis to ~ attach (great) importance to ~ attach (utmost) significant to ~ pay (due) attention to
+    > 因为均衡的饮食和充足的睡眠对于身体健康是不可或缺的, 大学生应该充分重视养成良好的习惯
+        - Since both a balanced diet and sufficient sleep are indispensable for physical fitness, university students
+        < should put great emphasis on good habits.
+        - sufficient suffice
+
+    > 落后地区的贫苦儿童极易辍学
+        - Poor children in backward areas are likely to become drop-outs.
+        - 中庸表达词 may, generally, tend to, to some extent, be more(less) likely to
+    > 由于无法承担学费, 落后和不发达地区的贫苦儿童极易辍学
+        - Poor children in backward and underdeveloped areas are .. become drop-outs because they cannot afford the tuition.
+        - backward, underdeveloped
+
+    > 中国不可能在教育方面投入巨资
+        - China is not likely to invest a huge amount of money in education to aid them.
+    > 此外, 由于中国是一个发展中国家, 不可能在教育方面投入巨资
+        - Moreover, China is not likely to invest .. aid them since it is a developing country.
+
+    > 任何国家都无法阻止旅游业
+        - Tourism could not be banned in any country.
+    > 旅游业确实有助于发展经济, 因此任何国家都无法禁止旅游业
+        - Tourism could not be banned in any country as it does help to shore up the economics.
+    > 毫无疑问, 由于在其他收入很少的地区, 旅游业确实有助于发展经济, 因此任何国家都无法禁止旅游业
+        - Undoubtedly, tourism could not be .. the economics in places which offer few sources of income.
+
+> 条件状语从句
+    - if, unless, once
+
+    > 人们发现他们已经被惯坏了
+        - They are found too spoiled.
+    > 人们发现他们已经被惯坏了, 在困难面前无法足够坚强
+        - They are found too spoiled to be strong enough in the face of difficulties
+        - in the face of
+        - overcome difficulties ~ surmount difficulties
+    > 一旦年轻人开始寻求独立并接受来自现实世界的挑战, 人们发现他们已经被惯坏了, 在困难面前无法足够坚强
+        - Once the young people begin to seek independent and accept challenges from the real world, they are .. of difficulties.
+        - seek .. and accept ..
+        < harsh reality
+
+    > 这种痴迷将浪费我们的金钱和时间
+        - The obsession will waste us money and time.
+    > 这种痴迷将必定浪费我们大量的金钱和时间, 影响我们的工作效率
+        - The obsession will waste us money and time, endangering the efficiency of our work.
+        < endanger ~ harm ~ influence ~ impact
+    > 如果我们只是靠模仿偶像发型或追逐时尚的方式来崇拜他们, 这种痴迷将浪费我们的金钱和时间, 影响我们的工作效率
+        - If we simply worship the idols by imitating their hairstyle or pursuing fashions unreasonably, the obsession .. our work.
+        - only ~ just ~ simply
+        - worship ~ adore ~ admire
+        - idol ~ star ~ celebrity
+    > 我们就会过一种积极的生活
+        - We will live a positive life.
+    > 如果我们努力提高自己, 我们就会过一种积极和收获显著的生活
+        - We will live a positive and fruitful life if we endeavour to improve ourselves.
+        < endeavour to ~ try every means to ~ try and exert our strength
+        - improve ~ enhance ~ increase
+    > 相反, 如果我们靠弥补我们和榜样之间的差距来努力提高自己, 我们就会过一种积极和收获显著的生活
+        - On the contrary, we will live a .. ourselves by bridging the gap between our models and us.
+        < bridging the gap
+
+    > 他很难保持过去的荣誉
+        - He can hardly maintain his past glory.
+        < Hardly/Scarcely can you pass the exam unless you work hard.
+        - splendid and glorious cultural heritage
+    > 一旦一个人停止取得进步, 他很难保持过去的荣誉
+        - Once a person stops making progress, he can hardly maintain his past glory.
+        < make progress     取得进步
+    > 一旦一个人停止取得进步, 他很难保持过去的荣誉, 在这个竞争世界中生活下去
+        - Once a .. glory and survive in this competitive world.
+        - survive instead of live
+
+    > 我们仍须为了成功而继续奋斗
+        - We still have to strike for success.
+        < strike for ~ endeavour to
+    > 我们仍须在我们未来的学业, 职业和事业上为了成功而继续奋斗
+        - We still have strike for success in our future academic study, employment and career.
+        - academic study
+        - employment ~ vocation (vacation)
+    > 如果我们通过了考试, 就面临着征服艰巨研究生课程的挑战, 我们仍须在我们未来的学业, 职业和事业上为了成功而继续奋斗
+        - If we pass this test and are confronted with the challenge of conquering the difficult graduate courses, we still .. career.
+        - be confront with
+
+> 让步状语从句
+    - although ~ though, no matter what ~ whatever
+
+    > 全国人民尽他们所能捐献去帮助那些同胞们
+        - People all over the country donate whatever they have to help their fellow citizens.
+    > 全国人民毫不犹豫地尽他们所能捐献--不管是钱, 还是物品--去帮助那些受难的同胞们
+        - People .. do not hesitate to donate whatever they have--be it money or goods--to help their needy fellow citizens.
+        - be it money or goods ~ whether it was money or goods
+        - needy ~ suffering
+        - in need of ~ need
+    > 尽管他们的收入按照国际标准衡量还是处于低水平, 但是全国人民毫不犹豫地尽他们所能捐献--不管是钱, 还是物品--去帮助那些受难的同胞们
+        - Although their incomes are still low by international standards, people all over .. their fellow citizens.
+
+> 其他状语从句
+    - when, where
+    - before, after
+    - as .. as
+    - than
+    - just as ..
+    - so that .. such that ..
+
+> 名词性结构
+
+> 独立主格结构
+    > 时间允许的话, 明天我就去青城山
+        - Time permitting, I will go to mountain tomorrow.
+
+> 信息量大的句子
+    > 我们可以在公交车上把座位让给老年人
+        - We may give up a seat on the bus to the elderly.
+    > 父母退休之后我们可以邀请他们和我们同住
+        - We may invite our parents to live with us while they retire.
+    > 例如, 我们可以在公交车上把座位让给老年人, 父母退休之后邀请他们和我们同住, 并且聆听他们有关生活和工作的建议
+        - It can be exemplified by giving up our seats on the bus to the elderly, by inviting our .. retire,
+        - and listening to their advice about life and work.
+        < It can be exemplified by ..
+
+    > 管理部门保证履行职责
+        - Administration department assure to perform their tasks.
+        - assure to ~ guarantee to ~ promise ~ swear to
+        - perform one's task
+    > 管理部门保证公正有效地履行职责
+        - Administration department assure to perform their tasks effectively and fairly.
+        - impartial ~ fair
+        - take effective/drastic measures/step/actions
+        - fair play     公平竞争
+        - fair lady     窈窕淑女
+    > 管理部门保证不接受贿赂, 公正有效地履行职责
+        - Administration department assure .. fairly without taking any bribes.
+
+    > 大学生有可能做出最优的选择
+        - Students can improve their chances of making an optimal choice.
+    > 大学生综合考虑个人偏好, 经济状况及职业目标, 就更有可能做出最优的选择
+        - With due consideration of personal preferences, financial status and career goals, students .. choice.
+
+    > 文化融合应鼓励和保持
+        - Cultural blending should be encouraged and maintained.
+    > 画家的目的是告诉我们文化融合应鼓励和保持
+        - The purpose of cartoonist is to show us (that) cultural blending should be encouraged and maintained.
+    > 画家的目的是告诉我们文化融合并未过时或失去价值, 相反还应鼓励和保持
+        - The purpose .. us that instead of being outdated and of little value in a rapidly modernizing world,
+        - cultural blending should be .. maintained.
+
+    > 人们拥有生理或心理问题
+        - People suffer either physical or mental problems.
+    > 越来越多的人开始拥有生理或心理问题
+        - People in mounting numbers are suffering either physical or mental problems.
+        - mounting numbers ~ increasing numbers ~ growing numbers ~ expanding numbers
+    > 随着都市生活节奏的加快和压力的不断增加, 越来越多的人开始拥有生理或心理问题
+        - With the quickening pace of urban life and ever-increasing pressure, people in .. mental problems.
+        - quicken
+        - ever-increasing
+
+> 优秀句型
+
+    > 强调句
+    > 只有长期学习才有助于我们掌握大的词汇量
+        - It is persistent work that is conducive to grasping a considerably vocabulary.
+
+    > 倒装句
+    > 年轻人能够培养个性和能力
+        - Young people can cultivate personality and ability.
+    > 只有经历更多的挑战和磨练, 年轻人才能培养强大的个性和能力
+        - Only by undergoing more challenges and toils in adversity can young people cultivate strong personality and ability.
+    > 只有经历更多的挑战和磨练, 年轻人才能培养强大的个性和能力, 而且只有这样他们才能成为这个竞争世界的强者
+        - Only by .. ability, and only in this way can they become winners in this competitive world.
+
+    > 虚拟语气
+    > 早就该提高人们的意识了
+        - It is high time that we enhanced people's awareness.
+        - 还没提高 (还没做)
+    > 我们早就该提高人们的意识来改进这个现状了
+        - It is high time that we enhanced people's awareness to rectify this.
+        - improve the present situation.
+    > 通过考虑环境保护因素, 我们早就该提高人们的意识来改进这个现状了
+        - It is high .. this by taking the environmental protection into consideration.
+
+    > 平行排比
+    > 文化的融合将来会更明朗
+        - The future of cultural blending looks brighter.
+    > 由于商业努力, 政府支持和海外兴趣, 文化融合的将来会更明朗
+        - As a consequence of commercialization efforts, government support and interests overseas, the future .. brighter.
+        - as a consequence of ...
+    > 由于成功的商业努力, 政府坚定不移的支持和不断增长的海外兴趣, 文化融合的将来会比过去任何时候更明朗, 更安全
+        - As a consequence of successful commercialization efforts, unwavering government support and increasing interests overseas,
+        - the future of cultural blending looks brighter and more secure than ever before.
+
+    > 扩充简单句
+    > 我们在唱歌
+        - We are singing.
+        - We, students from New Oriental School, the best training school in Beijing, which is the capital of China,
+        - the great country in the world, are singing a pop song named NiDeYangZi sung by Luo Dayou, who is the favorite
+        - singer of Wang Jiangtao, after we played Majiang the whole night.
+
