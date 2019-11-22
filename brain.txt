@@ -1,0 +1,34 @@
+> to be buy 
+    Winner Boots - Lee Sin       49.5
+    Western Shadow - Lucian      49.5
+    Western Shadow - Thresh      39.5
+    Ren-Cat - Rengar             39.5
+    Sky Light - Brand            39.5
+    Forbidden Mech - Graves      39.5
+    Evil Baron - Ryze            34.5
+    Galaxy Mech - Nidalee        39.5
+    ------------------------------------------
+                                 331
+
+    Evil Baron - Ryze            34.5
+    Ren-Cat - Rengar             39.5
+    Forbidden Mech - Graves      39.5
+    Galaxy Mech - Nidalee        39.5
+    ------------------------------------------
+                                 153
+
+> relief mainframe 
+    CPU     i5-9600KF                               1799
+    Board   MSI Z390-MORTAR                         1299
+    C+B                                             2499 (MSI 9600K + Z390-A PRO)
+
+    Cache   Kingston Hyper-RGB3200 8G x 2           578
+
+    GCard   MSI RTX2060 SUPER                       2699/2999/3199/3399
+    GCard   GTX 1660Ti                              2000
+
+    SSD     WD SN500 500G                           449
+    Power   CM GX550                                429
+    Fan     Thermalright AS120                      149
+    Case    Sama                                    199
+    Sum     6666.00                                 7303
