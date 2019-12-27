@@ -79,6 +79,7 @@
         @ He bought three books yesterday.
             - 成分: 1.He  2.three books  3.yesterday
             - 1. Who bought three books yesterday?
-            - 2. What did he buy yesterday
+            - 2. What did he buy yesterday?
+            - 3. When did he buy three books?
     > 提问
     > 回答
