@@ -1,0 +1,84 @@
+
+> 基本句式
+    - S V       主 + 谓
+        @ The universe remains.
+    - S V P     主 + 系 + 表 (系动词 L.V.)
+        @ The food is delicious.
+    - S V O     主 + 谓 + 宾
+        @ He took his bag and left.
+    - S V o O   主 + 谓 + 间宾 + 直宾
+        @ Her father bought her a dictionary.
+    - S V O C   主 + 谓 + 宾 + 宾补
+        @ We made him our monitor.
+    @ Nothing is impossible to a willing heart. 有志者事竟成
+
+> be 动词
+    > be is am are was were being been
+        @ The man is back.
+        @ They were back.
+        @ They have been back.
+    > 用法 后面接名词, 形容词, 地点副词或短语作补足语
+        @ The man is a teacher.
+        @ Mary's new dresses are colorful.
+        @ My mother was in the kitchen.
+    > 否定
+        @ I am not back.
+        @ The man isn't back.
+        @ They aren't back.
+    > 疑问
+        @ Is he a teacher ?  Yes, he is. / No, he isn't.
+        @ Are you a teacher ?  Yes, I am. / No, I am not.
+        @ Were they teachers ?  Yes, they were. / No, they weren't
+
+> 代词的主格和宾格
+    > 主格代词 作主语的代词
+        - I he she it you we they
+        @ I am a teacher.
+    > 宾格代词 作宾语的代词
+        - me him her it you us them
+        @ She likes me.
+
+> 名词性/形容词性物主代词 (后面不可再跟任何名词)
+    - 物主代词  物的主人, 代替事物/人的代词 (某人的../某事物的..)
+    > 形容词性物主代词  my your his her its one's our your their
+        @ This is my book.
+        @ We love our motherland.
+        @ My teacher is Chinese.
+    > 名词性物主代词  mine yours his hers its one's ours yours theirs
+        @ The book is ours.
+        @ This computer is theirs.
+
+> 反身代词  指某人自己
+    > myself yourself herself himself itself yourselves ourselves themselves
+    > 放在动词后作宾语
+        @ Please help yourself to some fish. 放开点吃些鱼吧.
+        @ We enjoyed ourselves last night. 我们昨天晚上玩得很开心.
+        @ Take good care of yourself.
+        @ She gained control of herself.
+    > 在名词后作同位语
+        @ The things itself is not important. 这个东西不重要.
+
+> 实意动词  具有实在意义的动词
+    > come read go watch play fly
+        @ He comes from Mexico.
+        @ She is reading story books.
+        @ We have watched the game for three times.
+    > 否定
+        - 使用助动词否定 (在助动词 do does did 后加 not)
+        @ I don't go to school by bus.
+        @ She doesn't watch TV everyday. (第三人称单数 does)
+        @ They didn't swim last night.
+    > 疑问
+        - 使用助动词进行提问 do does did
+        @ He often plays golf. | Does he often play golf?
+        @ They go to school by bus. | Do they go to school by bus?
+        @ Sam had breakfast yesterday. | Did Sam have breakfast yesterday?
+
+> 疑问词  提问句子中缺少某些成分时需补充疑问词
+    - when where who what how
+        @ He bought three books yesterday.
+            - 成分: 1.He  2.three books  3.yesterday
+            - 1. Who bought three books yesterday?
+            - 2. What did he buy yesterday
+    > 提问
+    > 回答
