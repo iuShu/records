@@ -1,4 +1,7 @@
 
+> 元音字母  a e i o u
+> 辅音字母  除元音字母外的 21 个字母
+
 > 基本句式
     - S V       主 + 谓
         @ The universe remains.
@@ -75,11 +78,64 @@
         @ Sam had breakfast yesterday. | Did Sam have breakfast yesterday?
 
 > 疑问词  提问句子中缺少某些成分时需补充疑问词
-    - when where who what how
+    > when where who what how
         @ He bought three books yesterday.
-            - 成分: 1.He  2.three books  3.yesterday
+            - 成分: 1.He  2.bought  3.three books  4.yesterday
             - 1. Who bought three books yesterday?
-            - 2. What did he buy yesterday?
-            - 3. When did he buy three books?
-    > 提问
-    > 回答
+            - 2. How did he get three books yesterday?
+            - 3. What did he buy yesterday?
+            - 4. When did he buy three books?
+        @ They wanted to go to Japan by air.
+            - 成分: 1.They  2.to Japan  3.by air
+            - 1. Who wanted to go to Japan by air?
+            - 2. Where did they want to go by air?
+            - 3. How did they want to go to Japan?
+    > how long  how far  how often  why
+        @ They have been in China for three years.  (for three years)
+            - How long have they been in China?
+        @ It is about four kilometers from Beijing to Xi'an.  (four kilometers)
+            - How far is it from Beijing to Xi'an?
+        @ They come to visit me once a week.  (once a week)
+            - How often do they come to visit me?
+        @ She came late, because she missed the bus.  (because .. the bus)
+            - Why did she come late?
+
+> 名词 noun
+    > 可数名词 countable noun (数量可计量 具有单数复数之分)
+        - apple pencil student tomato
+        - apples pencils students tomatoes
+        > 单数变复数规则
+            - 一般末尾加上后缀 s  (friend friends)
+            - 以 s z x ch sh 结尾的词在末尾加上 es  (bus buses)
+            - 辅音字母 + y 结尾的名词 需将 y 改为 i 再加 es  (candy candies)
+            > 以 o 结尾的名词 若该名词非外来词或缩写词就加 es
+                - 英语系 tomato tomatoes
+                - 缩写词 hippo hippos  (hippopotamus)
+        > 可数名词前可加 a/an 或量词
+            @ apple / an apple / apples / a box of apples
+            @ tomato / a tomato / tomatoes / a bag of tomatoes
+    > 不可数名词 uncountable noun (无法计算的数量或抽象的概念 无复数形式)
+        - salt coffee water history love
+        > 不可数名词前只可加量词
+            @ coffee / a cup of coffee
+
+> 代词
+    > 指示代词  标识人或事物的代词 用于代替前面已经提及过的名词
+        - this these that those
+        @ This is his book.
+        @ Those apples were his.
+    > 不定代词  指代不确定的人或事物
+        - one  the other  some  any  something  nothing
+        @ No one knows where he is.
+        @ Some of the boys want to go to Shanghai, but the others want to go to Xi'an.
+        @ Each of the students has got a book.
+
+> 形容词
+    > 形容词通常形容人或事物的状态 性质 大小等
+        - 通常用在名词前 be 动词后
+        @ the beautiful girl.
+        @ The girl is beautiful.
+    > The + 形容词 = 复数名词  (表示一类人或事物 后面的动词需使用复数)
+        @ the old
+        @ the young
+        @ The old need more care than the young.
