@@ -898,3 +898,8 @@ harm
 disadvantages
 weaknesses
 shortcomings
+>>>
+serve       v.服务, 服侍
+served      v.服务, 服侍, 送达
+severe      adj.严重的, 剧烈的
+severed     v.切断, 断绝, 分离

@@ -119,7 +119,7 @@
         > 不可数名词前只可加量词
             @ coffee / a cup of coffee
 
-> 代词
+> 代词  pronoun
     > 指示代词  标识人或事物的代词 用于代替前面已经提及过的名词
         - this these that those
         @ This is his book.
@@ -130,7 +130,7 @@
         @ Some of the boys want to go to Shanghai, but the others want to go to Xi'an.
         @ Each of the students has got a book.
 
-> 形容词
+> 形容词  adjective
     > 形容词通常形容人或事物的状态 性质 大小等
         - 通常用在名词前 be 动词后
         @ the beautiful girl.
@@ -139,3 +139,206 @@
         @ the old
         @ the young
         @ The old need more care than the young.
+
+> 副词  adverb
+    > 副词可以修饰动词 形容词 其他副词以及其他结构
+        @ He runs fast.
+        @ She is very beautiful.
+        @ They work very hard.
+    > 1. 根据情况 放在助动词之后 实意动词之前或之后
+        @ He speaks very fast.
+    > 2. 形容词之前 其他副词之前或之后
+        @ They have already left.
+    > 3. 多个助动词时 副词一般放在第一个助动词后
+        @ They have already been repaired.
+    > 频度副词  通常放在一般动词前, be动词后, 助动词和实意动词之间
+        - always usually often sometimes never
+        @ They always come early.
+        @ Sam often writes homework at 7:00.
+
+> 不定量表达
+    > some 一些 (主要用于肯定句 希望得到肯定回答时 也可用在疑问句中)
+    > any 一些,任何,所有 (主要用在否定和疑问句中)
+        @ I'd been expecting some letters the whole morning, but there weren't any for me.
+
+    > most 作形容词时表示大部分的 后面接名词复数
+        @ Most people here are from Holland(Netherlands).
+    > every 表示'每一个, 所有' 后面接名词单数
+        @ Ever one likes the film.
+    > all 表示'所有' 后面接可数名词复数 不可数名词单数
+        @ All the cars are parked in the parking lot.
+        @ All the coffee is served on time.
+
+    > both 表示两者都 可作形容词, 代词和副词
+        @ Both his eyes were severely burned.
+    > either 两者之一
+        @ There are trees on either side of the street.
+    > neither 两者都不 后加名词单数
+        @ Neither answer is correct.
+
+    > many 修饰可数名词 表示'许多'
+        @ many books
+    > much 修饰不可数名词 表示'许多'
+        @ much water
+    > a lot of / lots of / plenty of 均可修饰可数或不可数名词
+        @ a lot of/lots of books/water
+
+    > a few 几个 与可数名词连用 (肯定含义)
+        @ A few books are put into the box. (几本书放进了盒子里面)
+    > few 没几个 与可数名词连用 (否定含义)
+        @ Few books are put into the box. (没有几本书放进了盒子里面)
+
+    > a little 一点儿 与不可数名词连用 (肯定含义)
+        @ There is a little water in the bottle. (瓶子里有一些水)
+    > little 没多少 与不可数名词连用 (否定含义)
+        @ There is little water in the bottle. (瓶子里没多少水)
+
+    > none 一个/点也不 代词 (可接 of 短语, 动词可用单数/复数)
+        @ None of us have(has) arrived.
+    > no one 一个/点也不 代词 (不可接 of 短语, 动词只用单数)
+        @ No one knows the answers.
+
+> 一般现在时
+    > 一般现在时表示通常性,规律性,习惯性的状态或动作
+        - 主语是第三人称单数时 动词有单三的变化
+        - 主语非第三人称单数时 动词为原型
+        @ They often get up at 7:00.
+        @ He often gets up at 7:00.
+    > 动词的单三变化
+        - 动词结尾直接加 s  (play plays)
+        - 以字母 s x ch o 结尾的动词加 es  (guess guesses)
+        - 以辅音字母 + y 结尾的动词 变为 i 再加 es  (study studies)
+    > 一般现在时否定/疑问句中使用 do/does 帮助构成
+        @ He doesn't like the car.
+        @ Does he like the car?
+
+> 现在进行时
+    > 现在进行时表示现在正在进行或发生的动作 句中通常有 now 等时间副词呼应
+        - 基本构成形式 be + doing
+        @ I am watching TV.
+        @ He is watching TV.
+        @ They are watching TV.
+    > 动词现在分词的变化
+        - 一般情况下直接在动词后加 ing  (work working)
+        - 以 ie 结尾的动词 变 y 再加 ing  (lie lying)
+        - 动词以不发音的 e 结尾 需去掉 e 再加 ing  (take taking)
+        - 重读闭音节的动词 需双写词尾字母再加 ing  (cut cutting)
+
+> 一般过去时
+    > 一般过去时表示过去某个时间里发生的动作或状态 过去习惯性/经常性的行为
+        @ He worked very hard last night.
+        @ They came here by car.
+
+    > 动词一般过去时变化规则
+        - 一般在动词后加 ed  (played)
+        - 以字母 e 结尾的动词后 只加 d  (liked)
+        - 以辅音字母 + y 结尾的动词后改 y 为 i 再加 ed  (supplied)
+        - 以重读闭音节结尾且末尾只有一个辅音字母的动词后 双写最后一个辅音字母再加 ed  (planned)
+
+> 过去进行时
+    > 过去进行时表示在过去某一时刻或某一段时间内进行或发生的动作
+        - was/were + doing
+        @ They were waiting for you.
+        @ He was talking with his friends just now.
+
+> 一般将来时  (动词过去式)
+    > 一般将来时表示将来某一时刻的动作/状态或将来某一段时间内经常发生的动作/状态
+        - 常和表示将来的时间状语连用 (助动词 will/shall + 动词原型)
+        - tomorrow / next week / in the future
+        @ They will go to Thailand by ship tomorrow.
+        @ We shall leave for Malaysia next month.
+    > be going to + 动词原型 用来表示近期或事先考虑过的将要发生的动作以及已有迹象表明必将发生某事 意为'打算,就要'
+        @ They are going to play football this afternoon.
+        @ She is going to learn French next year.
+    > be doing 表示位置转移的动词 (可用现在进行时表示将来时)
+        - go come leave start arrive
+        @ They are leaving for Japan.
+        @ She is arriving tomorrow.
+
+> 现在完成时/过去完成时  (动词过去分词)
+    > 现在完成时指动作过去发生 已经完成 对现在造成影响或后果 (动作可能还会持续)
+        - 句式: have + 动词过去分词
+        - already (已经)  yet (还)
+        @ They have already arrived in Shanghai.
+        @ She has played soccer for 3 hours.  (for .. hours)
+        @ She hasn't finished the homework yet.
+    > 过去完成时表示句中的动作已经发生在过去之前 即过去的过去已经完成 对过去造成了一定的影响或后果
+        - 句式: had + 动词过去分词
+        @ They had arrived in Shanghai.
+        @ She had played soccer for 3 hours.
+        @ They hadn't finished the homework yet.
+    > 现在完成时: 到目前为止我已经学了三千个单词
+    > 过去完成时: 在那时我就已经学了三千个单词
+
+> 动词的用法
+    > 实义动词 Notional Verb   具有实际意义的动词
+    > 系动词 Link Verb         起到联系作用 没有实际意义
+    > 助动词 Auxiliary Verb    帮助构成句子成分的动词 没有实际意义
+    > 情态动词 Model Verb      具有情态含义(愿意 需要 必须) 通常与实意动词一起使用
+
+    > 动词有数量和时态的变化
+        - 三大时态: 现在 过去 将来
+        - 根据动作进行的状态可分为: 一般时 进行时 完成时
+        - 使用动词时通常结合时态与动作进行的状态来使用
+        @ He goes to school every day.      一般现在
+        @ He went to hospital last night.   一般过去
+    > 动词的形态变化
+        - 原型   单三   现在分词  过去式   过去分词
+        @ play  plays  playing  played  played
+        @ have  has    having   had     had
+        @ go    goes   going    went    gone
+
+> 情态动词
+    > can could 表示能力/客观可能性/发出请求/寻求允许 (can 可能性大) (could 更加委婉)
+        - can 现在的能力
+        - could 过去的能力
+        - 表示能力时可用 be able to 代替
+        @ He can/could swim. (He is able to swim.)
+        @ He can/could come tomorrow.
+        @ Can/Could I stay here?
+    > may might 表示可能性/发出请求/寻求允许 (may 可能性大) (might 更加委婉)
+        @ He may/might come here by bus.
+        @ Map/Might I join you?  Yes, Please. / No, you mustn't. / No, you can't.
+
+    > must / have to 表示必须,必要 (must 表达更为主观, have to 相对客观)
+        - have to 有时态和数量的变化
+        - 两者的否定意义不大相同
+        @ You must get up early.  (主观意识表达)
+        @ It's going to rain, I have to go home now.  (客观因素影响)
+    > should 表示劝告,建议,命令  同义词 ought to: 应该,应当 (should 主观看法 ought to 客观要求)
+        - 疑问句中通常以 should 代替 ought to
+        @ You should/ought to do the job right now.
+        @ Should they stay here now?
+
+    > need 表示需要 可作为情态动词/实义动词
+        > 情态动词
+            @ He need come here early.
+            @ Need he come here early?  Yes, he need. / No, he needn't.
+        > 实义动词
+            - 作实义动词时有第三人称单数和时态的变化 后面可加带 to 的不定式
+            @ He needs to come here early.
+            @ He doesn't need to come here early.  (加助动词)
+            @ Does he need to come here early?  Yes, he does. / No, he doesn't.
+        > 用于回答 must / have to 的提问句
+            - 否定时 mustn't 表示不准, 某些场景以此回答不妥, 故以 need / have to 回答.
+            @ Must I come here early?  No, you needn't / don't have to.
+
+    > had better 表示最好做某事 (had 此处不表征过去, better 后加动词原型)
+        - 否定形式直接后加 not + 动词原型
+        @ He had better eat more.
+        @ You'd better finish it right now.
+        @ I had better not stay here.
+    > would rather 表示宁愿 宁可 最好 还是..为好 (语感上比 had better 要轻)
+        - 否定形式直接后加 not + 动词原型
+        @ You would rather deal with it now.
+        @ I would rather not say it.
+
+    > used to + 动词原型  表示过去习惯性动作, 译为'过去常常..'
+        - 可指过去的状态/情况或状态现在已经结束
+        @ I used to live in Beijing.
+        @ The novel used to be popular.
+        @ People used to believe that the earth was flat.
+    > would + 动词原型  表示反复发生的动作, 非反复动作不可用 would, 译为'过去常常..'
+        - 不可指过去的状态或情况 表示有可能再发生的动作
+        @ He would practise English every week.
+        @ He would go to the park as soon as he was free.
