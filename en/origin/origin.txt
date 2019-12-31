@@ -224,7 +224,7 @@
         - 动词以不发音的 e 结尾 需去掉 e 再加 ing  (take taking)
         - 重读闭音节的动词 需双写词尾字母再加 ing  (cut cutting)
 
-> 一般过去时
+> 一般过去时  (动词过去式)
     > 一般过去时表示过去某个时间里发生的动作或状态 过去习惯性/经常性的行为
         @ He worked very hard last night.
         @ They came here by car.
@@ -241,7 +241,7 @@
         @ They were waiting for you.
         @ He was talking with his friends just now.
 
-> 一般将来时  (动词过去式)
+> 一般将来时
     > 一般将来时表示将来某一时刻的动作/状态或将来某一段时间内经常发生的动作/状态
         - 常和表示将来的时间状语连用 (助动词 will/shall + 动词原型)
         - tomorrow / next week / in the future
@@ -342,3 +342,79 @@
         - 不可指过去的状态或情况 表示有可能再发生的动作
         @ He would practise English every week.
         @ He would go to the park as soon as he was free.
+
+    > 否定  情态动词 + not + 动词原型
+        @ He can't sing an English song.
+        @ He mustn't go there.  他不准去那
+        @ He doesn't have to go there.
+
+> 情态动词 + have + 动词过去分词  (情态动词 + 现在完成时)
+    - 表达过去的事实 / 推测的含义
+    > can could may might must
+        @ He must have arrived.       他肯定已经到了. (可能性最大)
+        @ He can/could have arrived.  他可能已经到了. (可能性次之)
+        @ He may/might have arrived.  他可能已经到了. (可能性最小)
+    > should need 表示本应该, 实际事情并没有发生
+        @ He should have arrived.              他本应该到了.
+        @ They should have finished the work.  他本应该已经完成工作了.
+        @ You needn't have done so.            你本来不需要那么做.
+    > must + have + 动词过去分词 表示'准是已经..'
+        @ He must have arrived.  他准是已经到了.
+    > can't + have + 动词过去分词 表示'不可能已经..'
+        @ He can't have arrived.  他不可能已经到了.
+
+> 被动语态 (若主语是动作的承受者 则使用动词被动语态作谓语)
+    > 被动语态的基本构成: be + 动词过去分词 + by sb.
+        @ He is taken to American by his mother.
+    > 被动语态有各种时态
+        @ The information is needed by us.
+        @ The book was being read by him.
+        @ The computer has been used by her.
+        @ The room will be cleaned.
+        @ The computer could have been used by them.
+    > 被动语态结合情态动词
+        - 结构: 情态动词 + be + 动词过去分词
+        - need + doing
+        @ The food could be taken away.
+        @ The food needs taking away.   (need 此处为实义动词故以单三形式出现 + doing 表示被动)
+        @ The food had better be taken away.
+        @ Books used to be returned in two days.
+    > 省略动作行为者 动作的行为者不分明/不重要/在上下文会提到时可省略
+        @ The information is needed.
+        @ The book is being read.
+        @ The door was opened.
+    > 被动语态疑问句: 助动词 + 主语 + (其他助动词) + 动词过去分词 ?
+        @ Is the information needed by him?  Yes, it is. / No, it isn't.
+        @ Has the computer been used by her?  Yes, it has. / No, it hasn't.
+        @ Will the room be cleaned?  Yes, it will. / No, it won't.
+    > 特殊疑问句: 疑问词 + 助动词 + 主语 + (其他助动词) + 动词过去分词 ?
+        - 针对不同成分提问
+        @ The information is needed by them.
+            - What is needed by them ?  (the information)
+        @ The girl is taken to Shanghai.
+            - Where is the girl taken?  (Shanghai)
+        @ The book has been read three times.
+            - How many times has the book been read ?  (three times)
+
+> 非谓语动词  表征动作但在句子中不作谓语成分
+    > to + 动词原型 作非谓语动词, 句子成分可为: 主语 宾语 宾补 定语 表语 状语
+        @ To get there by bike will take us an hour.
+            - To get there by bike 作主语
+        @ The driver failed to see the car in time.
+            - to see the car 作宾语
+        @ We believe him to be guilty.
+            - to be guilty 作宾补
+        @ The next train to arrive is from Seoul.
+            - to arrive 作定语
+        @ My suggestion is to put off the meeting.
+            - to put off the meeting 作表语
+        @ I come here only to say goodbye to you.
+            - to say goodbye to you 作状语 (目的状语)
+    > 动词原型 + ing  作非谓语动词 (动名词)
+        - 具有动词特征和变化形式
+        - 句子中用法及功能类同名词 可作主语,宾语,表语,定语
+        - 亦可被副词修饰或支配宾语 (即动名词后也可加宾语)
+        @ Reading is an art.  作主语
+        @ They went on walking and never stop talking.  作宾语
+        @ Your task is quickly cleaning the window.  作表语
+        @ This is a reading room.  作定语
