@@ -242,6 +242,7 @@
         @ He was talking with his friends just now.
 
 > 一般将来时
+    - 主语是 I / we 时使用 shall
     > 一般将来时表示将来某一时刻的动作/状态或将来某一段时间内经常发生的动作/状态
         - 常和表示将来的时间状语连用 (助动词 will/shall + 动词原型)
         - tomorrow / next week / in the future
@@ -418,3 +419,165 @@
         @ They went on walking and never stop talking.  作宾语
         @ Your task is quickly cleaning the window.  作表语
         @ This is a reading room.  作定语
+
+    > 假主语/真主语  (真主语太长 以代词作假主语代替真主语 避免句子头重脚轻)
+        > to 不定式或动名词可作为句子主语 但一般用 it 代替作形式主语
+            @ It's a great honor to be invited.  (it ~ to be invited)
+            @ It is no use crying over spilt milk.  覆水难收  (it ~ crying over spilt milk)
+        > 在宾语的位置上 以 it 代替作形式宾语
+            @ We think it important to learn English.  (it ~ to learn English)
+            @ I found it pleasant walking in the park.  (it ~ walking in the park)
+        > 对动名词/不定式进行否定时 在不定式或名词前加 not 否定
+            @ He pretended not to see her.
+            @ He regrets not joining them.
+
+    > 目的状语  (to 不定式作目的状语)
+        > in order to + 动词/动词词组 表示目的 置于句首句尾均可 (在 to 前加 not 表否定)
+            @ I've written down in order to remember it.
+            @ I've written down in order not to forget it.
+        > so as to + 动词/动词词组 表示目的 置于句尾  (在 to 前加 not 表否定)
+            @ He shouted and waved so as to be noticed.
+            @ He said nothing so as not to be noticed.
+
+    > 常见的不定式/动名词句型
+        > too .. to ..
+            @ The room is too small to live.
+        > enough + 名词 + to + 动词 / 形容词 + enough + to + 动词
+            @ There is enough food to eat.
+            @ The box is big enough to contain six apples.
+        > On + 动名词
+            @ On seeing the snake, the girl was very frightened.
+        > There is no hope of doing sth.  没希望做某事
+            @ There is no hope of seeing him.
+        > feel like + 动名词 表示想要
+            @ I feel like eating ice cream now.
+        > have a hard time + 动名词 表示'做..艰难'
+            @ They have a hard time solving the problem themselves.
+
+    > 分词句 句子中作非谓语
+        > 动词 + ing 称之为动名词/现在分词
+            @ Writing books is his job.  动名词作主语
+            @ He is writing a book.  现在分词
+        > 动词过去分词 用在完成时/被动语态中
+            @ He has written the homework.  完成时
+            @ The homework is written.  被动语态
+        > 分词句  包含现在分词/过去分词的分句
+            @ The students went out of the classroom, laughing and talking.  边笑边出去教室 (现在分词)
+            @ Accompanied by his friend, he went to the railway station.  (过去分词表示被动语态)
+
+> 原型不定式
+    > 使役动词 表示'让/使..'
+        > have make let 作使役动词, 构成形式: have/make/let + 宾语 + 动词原型
+            @ He made me laugh.
+            @ I let him go.
+            @ Please have him come here.
+        > get + 宾语 + to + 动词原型
+            @ I can't get anyone to do the work properly.
+        > help + 宾语 + (to) + 动词原型
+            @ I helped him (to) repair the car.
+        > have/make/let/get/help + 宾语 + 过去分词 表示'让某物/某人被别人..'
+            @ I must get my hair cut. (cut 过去分词也是 cut)
+            @ He couldn't make himself heard.
+            @ Can you get the work finished in time?
+
+    > 感官动词
+        > see/watch/observe/notice/hear/smell/taste/feel + 宾语 + 动词原型/现在分词
+            - 加动词原型 表示动作的真实性
+            - 加现在分词 表示动作的连续性 进行性
+            @ I saw him work in the garden yesterday.  我看到他昨天在花园里工作
+            @ I saw him working in the garden yesterday.  我看到他昨天一直在花园里工作
+        > 感官动词 + 宾语 + 过去分词 表示被动 (宾语被..)
+            @ John saw the man knocked down by the car.
+            @ I heard Sam sent to the hospital. (Sam 宾语)
+
+> 假设
+    - if 引导的状语从句可以放在句首或句尾 (注意逗号分割的差别)
+    > 单纯假设
+        - 用 if 引导的条件状语从句 从句为现在时 译作'如果..'
+        - 主句 一般将来时
+        - 从句 一般现在时
+        @ If you get up early, you'll catch up with the train. (一般现在时, 一般将来时)
+        @ If you ask him, he will help you.
+        @ She will be upset if you fail the exam.
+    > 虚拟语气 (与现在事实相反)
+        - if 从句作一种虚拟/假设的条件 与现在事实相反
+        - 主句语态 would could should might + 动词原型 (情态动词将来时)
+        - 从句语态 动词过去式 (be 用 were 没有单数 was)
+        @ If I were you, I would join them.
+        @ She would come with you if you invited her.
+
+    > 虚拟语气 (与过去事实相反)
+        - 主句语态 would could should might + have + 动词过去分词
+        - 从句语态 had + 动词过去分词
+        @ If I had got there earlier, I should have met her.
+        @ If he had taken my advice, he would not have made such a mistake.
+
+    > 虚拟语气 wish / as if
+        > wish 引导的虚拟语气译为'希望..就好了' 即不可能实现的假设
+            @ I wish I were as tall as you.  (一般过去时 与现在事实相反)
+            @ He wished he hadn't said that.  (过去完成时 与过去事实相反)
+            @ I wish it would rain tomorrow.  (一般将来时 与将来事实相反 would/should/could)
+        > as if 译为'看起来好像..'
+            - 注意从句时态
+            @ You look as if you didn't care.  (一般过去时 从句表示与现在事实相反)
+            @ He talks about Rome as if he had been there before.  (过去完成时 从句表示与过去事实相反)
+            @ He opened his mouth as if he would say something.  (一般将来时 从句表示与将来事实相反)
+
+> 定语从句 修饰一个名词/代词, 被修饰词称为先行词
+    - 定语从句中有完整的句子成分
+    > that who whom whose 先行词是人时所使用的关系代词
+        - that who 可作主语/宾语
+        - whom 可作宾语
+        @ The girl whom/that I spoke to is my cousin.
+            - The girl 先行词
+            - I spoke to .. 缺少宾语 故而使用 who 宾语格式 whom
+        @ They are the people who/that were seen yesterday.
+            - were seen 缺少主语 故关系代词使用代指人的 who
+        @ They are the people whom/that/who I saw yesterday.
+        @ They are the people whose wallets were lost yesterday.
+    > which that whose 先行词是动物/事物时所使用的关系代词
+        - which that 在从句中可作主语/宾语 (作宾语时可省略)
+        @ He came back for the book which/that he had forgotten.  (关系代词作宾语)
+        @ He came back for the book which/that was on the desk.  (关系代词作主语)
+        @ This is the chair whose legs were broken.
+    > sum up
+        -      指人            指物
+        - 主格  who/that       which/that
+        - 宾格  whom/who/that  which/that
+        - 属格  whose          whose
+
+    > 关系副词 when where why
+        > why 用于修饰表示原因的名词
+            @ We didn't know the reason why he didn't show up.
+        > when 修饰表示时间的名词
+            @ We'll put off the picnic until next week, when the weather may be better.
+        > where 修饰表示地点的名词
+            @ We don't know the place where he lives.
+
+> 宾语从句 连词 (在句子中起宾语作用的从句)
+    > 从属连词 that if whether
+        @ He told me (that) he would go to college the next year.
+        @ He said that he was there yesterday.
+        @ He doesn't know if/whether he was there.
+    > 连接代词 who whom whose what
+        @ Do you know who has won the game?
+        @ Do you know whom he likes?  (从句中作宾语故用 who 宾格 whom)
+        @ Do you know whose book it is?
+        @ Do you know what he is looking at?
+    > 连接副词 when where why how
+        @ He wants to know when the party is.
+        @ He wants to know where the party is.
+        @ He wants to know why they have a party.
+        @ He wants to know how they come.
+
+> 比较级/最高级
+    - 通常在形容词/副词后加 er est  (harder hardest)
+    - 词尾是不发音的单音节 e 时加 r st  (nicer nicest)
+    - 词尾是辅音 + y 的双音节时去掉 y 加 ier iest  (dry, drier, the driest)
+    - 以一个辅音结尾的重读闭音节时双写最后一个字母加 er est
+    - 多音节和双音节 在形容词和副词前加 more/less the most/the least
+    > 不规则变化
+        - good, better, the best
+        - many, more, the most
+
+> 完结撒花
