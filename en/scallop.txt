@@ -137,14 +137,15 @@ toil    辛劳, 劳累
 toilsome    adj.辛苦的, 艰难的
 toilful     adj.艰难的, 辛苦的, 费力的
 >>>
-quarrel v.争吵, 拌嘴, 吵架
-        吵架
-racket  喧哗, 吵闹, 球拍, 拍, 诈骗, 勒索
-        v.喧闹, 用球拍打
+quarrel     吵架
+            v.争吵, 拌嘴, 吵架
+squabble    v.(为小事)争吵
+racket      喧哗, 吵闹, 球拍, 拍, 诈骗, 勒索
+            v.喧闹, 用球拍打
 reproach    v.责备, 斥骂, 数落, 批评
             说, 责备的话语, 批评
-scold v.责骂, 责备, 数落, 奚落
-      唠唠叨叨, 骂人的妇女
+scold       v.责骂, 责备, 数落, 奚落
+            唠唠叨叨, 骂人的妇女
 >>>
 tiresome    adj.令人厌烦的
 drawback    缺点, 弱点, 不利条件, 退税
@@ -158,7 +159,11 @@ cede v.割让, 转让
 territory   领土, 领地, 版图, 疆土
 territorial   adj.领土的
 >>>
-suffice v.足够, 足以
+suffice         v.足够, 足以
+insuffice       不足, 缺少
+sufficient      adj.充足的, 足够的
+insufficient    adj.不足的, 缺乏的
+scarcity        缺乏, 缺少, 不足
 >>>
 statesman 政治家
 chancellor  总理, 校长
@@ -906,3 +911,87 @@ severed     v.切断, 断绝, 分离
 >>>
 sophistry       诡辩, 诡辩术
 sophisticate    adj.久经世故的, 复杂的, 精致的
+>>>
+aid     救助, 援助
+        v.帮助, 援助
+acid    adj.酸的, 尖酸的
+sour    adj.酸的
+>>>
+lump    肿块, 块, 隆起, 笨重的人
+        v.结块, 把..归为一起, 容忍, 忍耐
+lung    肺, 肺脏, 空地
+>>>
+axis    轴, 轴线, 坐标轴
+axe     斧头
+axes    axis复数, axe复数
+>>>
+ethic       伦理, 道德
+ethnic      adj.民族的, 种族的
+esthetic    adj.美学的, 审美的, 有美感的
+>>>
+inquire     v.询问, 调查
+enquire     v.询问, 查询
+>>>
+timber      木材
+tremble     颤抖
+            v.颤抖, 颤动
+tumble      v.倒塌, 倒台, 下跌, 翻到
+stumble     v.绊倒, 蹒跚, 瘸
+shiver      v.颤抖
+>>>
+relieve     v.缓解, 减轻, 缓和, 免除
+relief      缓解, 解脱, 宽恕
+>>>
+gene        基因
+genetic     adj.基因的
+genuine     adj.真正, 真诚的
+genius      天才
+>>>
+rigid       adj.死板的, 呆板的 生硬的
+stubborn    adj.顽固的, 固执的, 倔强的 (坚定不移 褒义)
+obstinate   adj.顽固的, 执拗的, 棘手的 (顽固不化 贬义)
+obstacle    障碍, 障碍物
+>>>
+erect   v.直立, 竖起, 挺起, 勃起
+erupt   v.爆发, 喷出, 突然发生
+>>>
+rude        adj.无礼的, 粗鲁的
+ruth        adj.怜悯
+ruthless    adj.残酷无情的, 残忍的
+>>>
+enthusiastic
+passionate
+affectionate
+>>>
+glance  一瞥, 匆匆一看
+glare   瞪视, 怒视
+gaze    凝视, 注视
+>>>
+landlord    房东
+tenant      租客, 房客
+lieutenant  中尉, 海军上尉, 陆军中尉
+>>>
+miser       吝啬鬼, 守财奴
+misery      悲惨, 痛苦, 苦难
+miserable   adj.悲惨的, 辛酸的
+miserably   adv.可悲地, 非常不幸地
+>>>
+presence    存在, 出席, 出场, 风度, 风采
+present     当下, 礼物
+            v.介绍, 呈递, 表达
+            adj.当前, 现在, 当今, 这次
+>>>
+corrode     v.腐蚀, 侵蚀
+corrupt     v.败坏, 毁坏, 腐坏
+            adj.腐败的, 贪污的
+erupt       v.爆发, 喷发, 喷出
+erode       v.侵蚀, 腐蚀, 冲刷
+>>>
+rode        v.骑, 乘
+rope        绳子
+rope        礼袍
+>>>
+scar        疤痕, 伤疤
+scab        痂
+scarf       围巾, 头巾, 颈巾
+>>>
