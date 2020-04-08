@@ -1,22 +1,3 @@
-> to be buy 
-    Winner Boots - Lee Sin       49.5
-    Western Shadow - Lucian      49.5
-    Western Shadow - Thresh      39.5
-    Ren-Cat - Rengar             39.5
-    Sky Light - Brand            39.5
-    Forbidden Mech - Graves      39.5
-    Evil Baron - Ryze            34.5
-    Galaxy Mech - Nidalee        39.5
-    ------------------------------------------
-                                 331
-
-    Evil Baron - Ryze            34.5
-    Ren-Cat - Rengar             39.5
-    Forbidden Mech - Graves      39.5
-    Galaxy Mech - Nidalee        39.5
-    ------------------------------------------
-                                 153
-
 > relief mainframe 
     CPU     i5-9600KF                               1799
     Board   MSI Z390-MORTAR                         1299
