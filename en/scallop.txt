@@ -4,68 +4,68 @@
 live    v.[liv]
 live    adj.[laiv]
 >>>
-commence v.开始发生, 开始, 着手
-commend 称赞, 称誉
+commence v.开始发生/开始/着手
+commend 称赞/称誉
         v.称赞
 >>>
-distress 窘迫, 痛苦, 遇险, 悲伤
-        v.使忧虑, 使悲伤, 使苦恼
+distress 窘迫/痛苦/遇险/悲伤
+        v.使忧虑/使悲伤/使苦恼
     @ Children suffer emotional distress when their parents get divorced.
 >>>
-alienate v.离间, 使疏远, 使不友好, 使格格不入
-assimilate  v.吸收, 消化, 透彻理解, 同化
+alienate v.离间/使疏远/使不友好/使格格不入
+assimilate  v.吸收/消化/透彻理解/同化
 >>>
-mend v.修补, 修理, 愈合, 缝补
-     修理, 改进, 痊愈, 修理部分
-endow vt.捐赠, 天生具有, 赋予
+mend v.修补/修理/愈合/缝补
+     修理/改进/痊愈/修理部分
+endow vt.捐赠/天生具有/赋予
     @Nature endow him a pure voice.
 >>>
 queer 同性恋者
-      adj.奇怪的, 不舒服的, 可疑的
-      v.破坏, 使觉得不舒服, 使陷入窘境
+      adj.奇怪的/不舒服的/可疑的
+      v.破坏/使觉得不舒服/使陷入窘境
     @queer footsteps 可疑的脚步声
-quench v.扑灭, 熄灭, 止渴
-quiver  v.颤动, 颤抖
-        颤抖, 发抖, 箭袋
-quality 质量, 品质, 特性, 才能, 气质
-        adj.优质的, 高品质的, 棒极了
+quench v.扑灭/熄灭/止渴
+quiver  v.颤动/颤抖
+        颤抖/发抖/箭袋
+quality 质量/品质/特性/才能/气质
+        adj.优质的/高品质的/棒极了
 >>>
-obsolete adj.过时的, 淘汰的, 废弃的
-        废词, 被废弃的事物
+obsolete adj.过时的/淘汰的/废弃的
+        废词/被废弃的事物
 >>>
 flap    v.拍击,
-        摆动, 振(翅), 忧虑, 激动
+        摆动/振(翅)/忧虑/激动
 >>>
-impart  传授, 透露, 告知, 赋予
-enlighten v.启发, 启蒙, 开导, 教导
+impart  传授/透露/告知/赋予
+enlighten v.启发/启蒙/开导/教导
 >>>
-hence   adv.故, 于是, 此后
+hence   adv.故/于是/此后
 henceforth  adv.从此以后
 >>>
-tangle 乱糟糟的一团, 混乱, 纷乱, 纠纷
-        v.纠结, 乱作一团
-tax 税金, 重负
-    v.向..课税, 使负重担
-tariff  关税表, 收费表
-        v.定税率, 征收关税
+tangle 乱糟糟的一团/混乱/纷乱/纠纷
+        v.纠结/乱作一团
+tax 税金/重负
+    v.向..课税/使负重担
+tariff  关税表/收费表
+        v.定税率/征收关税
 >>>
-shear v.剪断, 切断, 给(羊)剪(毛)
-      剪, 切 [物] 切变
+shear v.剪断/切断/给(羊)剪(毛)
+      剪/切 [物] 切变
 scissor 剪刀
         v.削减
-sheer   vt.使偏航, 使急转向
-        adj.绝对的, 透明的, 峻峭的, 纯粹的
-        偏航, 透明编织物
+sheer   vt.使偏航/使急转向
+        adj.绝对的/透明的/峻峭的/纯粹的
+        偏航/透明编织物
 >>>
-generalize v.概括, 归纳, 推广, 普及
+generalize v.概括/归纳/推广/普及
 >>>
-temperament 性情, 喜怒无常, 暴躁
-tempo 速度, 节奏, 步速, 拍子
+temperament 性情/喜怒无常/暴躁
+tempo 速度/节奏/步速/拍子
 >>>
-burglar 窃贼, 盗贼
-scoundrel   无赖, 恶棍
-scandal 丑闻, 丑行, 关于丑闻的传言
-vandal 故意破坏公物的人, 野蛮人
+burglar 窃贼/盗贼
+scoundrel   无赖/恶棍
+scandal 丑闻/丑行/关于丑闻的传言
+vandal 故意破坏公物的人/野蛮人
 rumor   谣言
         v.谣传
 tumor 肿瘤
@@ -74,573 +74,576 @@ malignant tumor 恶性肿瘤
 brook   小河
         v.忍受
 >>>
-limp    v.跛行,缓慢行进, 艰难移动
-        adj.软的, 柔软的, 轻柔的
-lame    vt.使跛, 使成残废
-        adj.跛足的, 不完全的, 无说服力的, 差劲的, 蹩脚的
+limp    v.跛行,缓慢行进/艰难移动
+        adj.软的/柔软的/轻柔的
+lame    vt.使跛/使成残废
+        adj.跛足的/不完全的/无说服力的/差劲的/蹩脚的
         (古代盔甲上的)金属片
 >>>
 quarterly   季刊
             adv.每季一次
             adj.季度的
 >>>
-impetus 动力, 推动, 促进, 刺激
-ambition    志向, 抱负, 志气
+impetus 动力/推动/促进/刺激
+ambition    志向/抱负/志气
 >>>
-trifle  小事, 琐事, 不值钱的东西, 稍等, 一点儿
-        v.轻视, 闹着玩儿地讲
-trial   审判, 试验, 磨难, 困难
+trifle  小事/琐事/不值钱的东西/稍等/一点儿
+        v.轻视/闹着玩儿地讲
+trial   审判/试验/磨难/困难
 >>>
-hoist 起重机, 吊车
-        v.升起, 升高, 举起, 提升
-halt    停止, 立定, 休息
-        vt.使停止, 使立定
-        vi.停止, 立定, 踌躇, 犹豫
-holt    小林, 林丘, 杂木林
-howl    嚎叫, 怒号, 嚎哭
-        vt.狂喊着说, 对...吼叫
-        vi.咆哮, 怒吼, 狂吠
+hoist 起重机/吊车
+        v.升起/升高/举起/提升
+halt    停止/立定/休息
+        vt.使停止/使立定
+        vi.停止/立定/踌躇/犹豫
+holt    小林/林丘/杂木林
+howl    嚎叫/怒号/嚎哭
+        vt.狂喊着说/对...吼叫
+        vi.咆哮/怒吼/狂吠
 holy    神圣的东西
-        adj.神圣的, 圣洁的, 至善的
+        adj.神圣的/圣洁的/至善的
 >>>
-litter  v.四处乱扔, 乱丢垃圾, 弄乱
-        垃圾, 废弃物, 杂物
-liberate    v.解放, 营救, 放出, 释放
-lateral adj.侧面的, 横向的
+litter  v.四处乱扔/乱丢垃圾/弄乱
+        垃圾/废弃物/杂物
+liberate    v.解放/营救/放出/释放
+lateral adj.侧面的/横向的
         侧部
         vt.横向传球
 literal adj.文字的
 illiterate 文盲
-        adj.文盲的, 不识字的, 无知的, 外行的
-irrespective    adj.不管的, 无关的, 不考虑的
+        adj.文盲的/不识字的/无知的/外行的
+irrespective    adj.不管的/无关的/不考虑的
 irrigate    灌溉
-irritate    v.激怒, 刺激
+irritate    v.激怒/刺激
 >>>
-inference 推论, 推理
+inference 推论/推理
 infer   v.推断
 defer   v.推迟
 prolong v.延迟
-postpone    vi.延缓, 延迟, 延缓发作
-            vt.使..延期, 把..放在次要地位, 把..放在后面
-denote  v.表示, 象征
+postpone    vi.延缓/延迟/延缓发作
+            vt.使..延期/把..放在次要地位/把..放在后面
+denote  v.表示/象征
 devote
 >>>
 complex adj.复杂的
-perplex v.使困惑, 使担忧, 困扰
+perplex v.使困惑/使担忧/困扰
 >>>
-mutual  adj.相互, 互相
+mutual  adj.相互/互相
 >>>
-tow     v.拖, 牵引, 拽
-        拖船, 麻的粗纤维
-toil    辛劳, 劳累
-        v.辛苦工作, 艰难地行进, 劳累, 劳苦
-toilsome    adj.辛苦的, 艰难的
-toilful     adj.艰难的, 辛苦的, 费力的
+tow     v.拖/牵引/拽
+        拖船/麻的粗纤维
+toil    辛劳/劳累
+        v.辛苦工作/艰难地行进/劳累/劳苦
+toilsome    adj.辛苦的/艰难的
+toilful     adj.艰难的/辛苦的/费力的
 >>>
 quarrel     吵架
-            v.争吵, 拌嘴, 吵架
+            v.争吵/拌嘴/吵架
 squabble    v.(为小事)争吵
-racket      喧哗, 吵闹, 球拍, 拍, 诈骗, 勒索
-            v.喧闹, 用球拍打
-reproach    v.责备, 斥骂, 数落, 批评
-            说, 责备的话语, 批评
-scold       v.责骂, 责备, 数落, 奚落
-            唠唠叨叨, 骂人的妇女
+racket      喧哗/吵闹/球拍/拍/诈骗/勒索
+            v.喧闹/用球拍打
+reproach    v.责备/斥骂/数落/批评
+            说/责备的话语/批评
+scold       v.责骂/责备/数落/奚落
+            唠唠叨叨/骂人的妇女
 >>>
 tiresome    adj.令人厌烦的
-drawback    缺点, 弱点, 不利条件, 退税
+drawback    缺点/弱点/不利条件/退税
 setback     挫折
 >>>
-ingenious   adj.有创造力的, 有才华的, 机灵的, 心灵手巧的, 精制的
-generous    adj.慷慨的, 大方的, 不吝啬的
-parsimony   吝啬, 简约
+ingenious   adj.有创造力的/有才华的/机灵的/心灵手巧的/精制的
+generous    adj.慷慨的/大方的/不吝啬的
+parsimony   吝啬/简约
 >>>
-cede v.割让, 转让
-territory   领土, 领地, 版图, 疆土
+cede v.割让/转让
+territory   领土/领地/版图/疆土
 territorial   adj.领土的
 >>>
-suffice         v.足够, 足以
-insuffice       不足, 缺少
-sufficient      adj.充足的, 足够的
-insufficient    adj.不足的, 缺乏的
-scarcity        缺乏, 缺少, 不足
+suffice         v.足够/足以
+insuffice       不足/缺少
+sufficient      adj.充足的/足够的
+insufficient    adj.不足的/缺乏的
+scarcity        缺乏/缺少/不足
 >>>
 statesman 政治家
-chancellor  总理, 校长
-minister    部长, 臣
-            v.服侍, 赈济
-secretary   秘书, 书记, 部长, 大臣
+chancellor  总理/校长
+minister    部长/臣
+            v.服侍/赈济
+secretary   秘书/书记/部长/大臣
 >>>
-presumably  adv.很可能, 大概, 想必
+presumably  adv.很可能/大概/想必
 >>>
-scorn 轻蔑, 不屑一顾, 笑柄
-      v.蔑视, 看不起, 拒绝
-scold v.责备, 责骂, 数落
-scout   搜索, 侦察, 侦察员
-        vt.侦察, 跟踪, 监视, 发现
-grope   摸索, 触摸
-        v.摸索, 探索
-scope   能力, 范围, 余地, 视野, 眼界
-        vt.审视, 搜索
+scorn 轻蔑/不屑一顾/笑柄
+      v.蔑视/看不起/拒绝
+scold v.责备/责骂/数落
+scout   搜索/侦察/侦察员
+        vt.侦察/跟踪/监视/发现
+grope   摸索/触摸
+        v.摸索/探索
+scope   能力/范围/余地/视野/眼界
+        vt.审视/搜索
 >>>
 twinkle v.闪烁 (指微弱的光忽明忽暗)
-        闪烁, 闪光
-sparkle v.火花, 闪烁, 生气勃勃, 热情奔放
-        闪烁, 亮点
+        闪烁/闪光
+sparkle v.火花/闪烁/生气勃勃/热情奔放
+        闪烁/亮点
 >>>
-salute  v.敬礼, 致敬
-        敬礼, 致意, 鸣炮致敬
+salute  v.敬礼/致敬
+        敬礼/致意/鸣炮致敬
 solute  adj.溶解的
-        溶质, 溶解物
-saturate    vt.浸透, 使湿透, 使饱和, 使充满
-            adj.浸透的, 饱和的, 深颜色的
-steep   adj.陡峭的, 不合理的, 夸大的, 急剧升降的
-        vt.泡, 浸, 使..充满
-status  地位, 状态, 情形, 重要身份
-statue  雕塑, 塑像
+        溶质/溶解物
+saturate    vt.浸透/使湿透/使饱和/使充满
+            adj.浸透的/饱和的/深颜色的
+steep   adj.陡峭的/不合理的/夸大的/急剧升降的
+        vt.泡/浸/使..充满
+status  地位/状态/情形/重要身份
+statue  雕塑/塑像
         vt.以雕塑装饰
 >>>
 swan 天鹅
-    v.闲逛, 悠游
-goose   天鹅, 鹅肉, 糊涂人
-        v.突然加大油门, 嘘骂
+    v.闲逛/悠游
+goose   天鹅/鹅肉/糊涂人
+        v.突然加大油门/嘘骂
 >>>
-nominal adj.名义上的, 有名无实的, 很小的, 象征性的
+nominal adj.名义上的/有名无实的/很小的/象征性的
         名词性的词
 notable adj.显著的
-        值得注意的事物, 著名的人
-noticeable  adj.引人注目的, 显著的
+        值得注意的事物/著名的人
+noticeable  adj.引人注目的/显著的
 >>>
-projector   投影仪, 放映机
-loudspeaker  放大器, 喇叭
+projector   投影仪/放映机
+loudspeaker  放大器/喇叭
 >>>
-vain    adj.徒劳的, 枉然的, 无结果的, 自负的
-avail   v.有帮助, 有益, 有用
-        益处, 效用
+vain    adj.徒劳的/枉然的/无结果的/自负的
+avail   v.有帮助/有益/有用
+        益处/效用
 >>>
-snobbish    adj.势力的, 爱慕虚荣的
-superficial adj.浅的, 肤浅的, 表面的
+snobbish    adj.势力的/爱慕虚荣的
+superficial adj.浅的/肤浅的/表面的
 >>>
-miserable   adj.悲惨的, 痛苦的
+miserable   adj.悲惨的/痛苦的
 >>>
-aggravate   v.使严重, 使恶化, 故意地激怒
-inaugurate  v.开创, 就职, 开幕
-agitate v.煽动, 鼓动, 激怒
+aggravate   v.使严重/使恶化/故意地激怒
+inaugurate  v.开创/就职/开幕
+agitate v.煽动/鼓动/激怒
 >>>
-dignity 尊严, 高贵, 端庄, 自尊心
-majesty 威严, 王权, 最高权威, 雄伟
+dignity 尊严/高贵/端庄/自尊心
+majesty 威严/王权/最高权威/雄伟
 >>>
 fire 火焰
-flame 火焰, 光芒, 热情
+flame 火焰/光芒/热情
 >>>
-instantaneous   adj.瞬间的, 瞬时的, 即刻的
-transient   瞬时状态, 过往旅客, 候鸟
-            adj.瞬间的, 短暂的, 路过的
+instantaneous   adj.瞬间的/瞬时的/即刻的
+transient   瞬时状态/过往旅客/候鸟
+            adj.瞬间的/短暂的/路过的
 >>>
 burglar 窃贼
-thief   贼, 窃贼, 盗窃犯
+thief   贼/窃贼/盗窃犯
 >>>
-recur v.反复出现, 复发, 再发生
-incur v.招致, 蒙受, 导致
+recur v.反复出现/复发/再发生
+incur v.招致/蒙受/导致
 >>>
-cripple v.使残废, 使瘸, 严重摧毁
-        跛子, 瘸子, 残疾人
+cripple v.使残废/使瘸/严重摧毁
+        跛子/瘸子/残疾人
 >>>
-clasp   扣子, 钩子, 握手
-        vt.紧抱, 扣紧, 紧紧缠绕
+clasp   扣子/钩子/握手
+        vt.紧抱/扣紧/紧紧缠绕
         vi.扣住
-cling   v.抓紧, 紧握, 粘住, 依恋, 依附
+cling   v.抓紧/紧握/粘住/依恋/依附
     @cling to the hope 坚信
 >>>
-concise adj.简明的, 简练的, 简洁的
-intelligible    adj.易懂的, 通俗的
+concise adj.简明的/简练的/简洁的
+intelligible    adj.易懂的/通俗的
 >>>
-underlie    v.构成...的基础, 作为...的原因
-undermine   v.逐渐削弱, 破坏, 败坏
+underlie    v.构成...的基础/作为...的原因
+undermine   v.逐渐削弱/破坏/败坏
     @undermine your confidence
 >>>
-lapse   小错, 过失
-        v.流逝(时间), 终止(合同), 背弃(宗教信仰)
+lapse   小错/过失
+        v.流逝(时间)/终止(合同)/背弃(宗教信仰)
 blunder 大错
         v.酿成大错
-confess v.承认, 坦白, 忏悔
+confess v.承认/坦白/忏悔
 >>>
-purify v.净化, 精炼, 提纯
-refine v.精炼, 提纯, 提炼
+purify v.净化/精炼/提纯
+refine v.精炼/提纯/提炼
 >>>
-recover     恢复, 胜诉, 重新得球
-            v.恢复, 弥补, 重新获得
-recovery    恢复, 复原, 痊愈, 重获
-revive        vt.使复兴, 使苏醒, 回想起, 重演, 重播
-              vi.复兴, 复活, 苏醒, 恢复精神
-revitalize    vt.使..复活, 使..复兴, 使..恢复生气
-revitalizing  振兴, 使恢复
+recover     恢复/胜诉/重新得球
+            v.恢复/弥补/重新获得
+recovery    恢复/复原/痊愈/重获
+revive        vt.使复兴/使苏醒/回想起/重演/重播
+              vi.复兴/复活/苏醒/恢复精神
+revitalize    vt.使..复活/使..复兴/使..恢复生气
+revitalizing  振兴/使恢复
 >>>
-wholesome   adj.有益健康的, 有道德的, 有良好道德影响的
-troublesome adj.烦人的, 棘手的, 讨厌的, 累赘的
+wholesome   adj.有益健康的/有道德的/有良好道德影响的
+troublesome adj.烦人的/棘手的/讨厌的/累赘的
 >>>
-cordial 补品, 兴奋剂, 甜香酒, 甘露酒
-        adj.热枕的, 热情的, 诚恳的, 兴奋的
-cardinal 红衣主教, 枢机主教, 鲜红色, 主红雀
-        adj.主要的, 基本的, 深红色的
+cordial 补品/兴奋剂/甜香酒/甘露酒
+        adj.热枕的/热情的/诚恳的/兴奋的
+cardinal 红衣主教/枢机主教/鲜红色/主红雀
+        adj.主要的/基本的/深红色的
     @Four Cardinal Principles
-criterion   标准, 准则
-underlie    vt.成为...的基础, 位于...之下
-underline   下划线, 下期节目预告
-            vt.强调, 在...下面划线, 预告
-undermine   vt.破坏, 逐渐削弱, 渐渐破坏, 挖掘地基
+criterion   标准/准则
+underlie    vt.成为...的基础/位于...之下
+underline   下划线/下期节目预告
+            vt.强调/在...下面划线/预告
+undermine   vt.破坏/逐渐削弱/渐渐破坏/挖掘地基
     @Failure can undermine your confidence.
-underlying  adj.潜在的, 根本的, 下面的, 优先的 (underlie 的 ing 形式)
-            v.放在...的下面, 为...的基础, 优先于
+underlying  adj.潜在的/根本的/下面的/优先的 (underlie 的 ing 形式)
+            v.放在...的下面/为...的基础/优先于
 potential   adj.潜在的
-            潜力, 潜在性
+            潜力/潜在性
 >>>
-fold    折叠, 信徒, 羊栏
-        vt.折叠, 合拢, 抱住, 笼罩,
-        vi.折叠起来, 彻底失败
-unfold  vi.展开, 展露
-        vt.打开, 呈现
-enfold  vt.拥抱, 包裹, 折叠, 围绕
+fold    折叠/信徒/羊栏
+        vt.折叠/合拢/抱住/笼罩,
+        vi.折叠起来/彻底失败
+unfold  vi.展开/展露
+        vt.打开/呈现
+enfold  vt.拥抱/包裹/折叠/围绕
 >>>
-strike  罢工, 打击, 殴打
-        v.打击, 罢工, 敲击, 打动, 穿透
-stride  大步, 步幅, 进展
-        v.跨过, 大步行走
+strike  罢工/打击/殴打
+        v.打击/罢工/敲击/打动/穿透
+stride  大步/步幅/进展
+        v.跨过/大步行走
 >>>
-fantasy 幻想, 白日梦, 幻觉
+fantasy 幻想/白日梦/幻觉
         adj.虚幻的
-        vt.空想, 想象
-fancy   幻想, 想象力, 爱好
-        adj.想象的, 奇特的, 昂贵的, 精选的
-        vt.想象, 喜爱, 设想, 自负
+        vt.空想/想象
+fancy   幻想/想象力/爱好
+        adj.想象的/奇特的/昂贵的/精选的
+        vt.想象/喜爱/设想/自负
 fantastic   古怪的人
-            adj.奇异的, 空想的, 异想天开的, 古怪的, 极好的, 不可思议的, 不切实际的
+            adj.奇异的/空想的/异想天开的/古怪的/极好的/不可思议的/不切实际的
 >>>
-maniac  疯子, 疯狂的人
-        adj.发狂的, 狂热的, 癫狂的
+maniac  疯子/疯狂的人
+        adj.发狂的/狂热的/癫狂的
 mad     狂怒
-        adj.疯狂的, 发疯的, 愚蠢的, 着迷的
+        adj.疯狂的/发疯的/愚蠢的/着迷的
 >>>
-prick   刺, 扎, 刺痛, 刺伤, 阴茎, 锥
-        vt.刺, 戳, 刺伤, 刺痛, 竖起
-        vi.刺, 竖起
-gouge   沟, 圆凿, 以圆凿刨
-        vt.用半圆凿子挖, 欺骗
+prick   刺/扎/刺痛/刺伤/阴茎/锥
+        vt.刺/戳/刺伤/刺痛/竖起
+        vi.刺/竖起
+gouge   沟/圆凿/以圆凿刨
+        vt.用半圆凿子挖/欺骗
 >>>
-ordinary    普通, 平常的人(或事)
-            adj.普通的, 平凡的, 平常的
-ordinarily  adv.通常地, 一般地
+ordinary    普通/平常的人(或事)
+            adj.普通的/平凡的/平常的
+ordinarily  adv.通常地/一般地
 usually     adv.通常
-currently   adv.当前, 一般地, 目前
-generally   adv.通常, 普遍地, 一般地
-general     一般, 将军, 上将, 常规
-            adj.一般的, 普通的, 综合的, 大体的
-generous    adj.慷慨的, 大方的, 宽宏大量的, 有雅量的
-genius      天才, 天赋, 精神
+currently   adv.当前/一般地/目前
+generally   adv.通常/普遍地/一般地
+general     一般/将军/上将/常规
+            adj.一般的/普通的/综合的/大体的
+generous    adj.慷慨的/大方的/宽宏大量的/有雅量的
+genius      天才/天赋/精神
 >>> About time
 elapse  (时间)流逝
-punctual    adj.准时的, 守时的, 精确的
+punctual    adj.准时的/守时的/精确的
     @begin the show punctual at 10 10点准时开始演出
-decade  十年, 十年期, 十
+decade  十年/十年期/十
 fortnight   两星期
 >>>
-anti  反对者, 反对论者
+anti  反对者/反对论者
       adj.反对的
-anticipate    vt.预期, 期望, 占先, 抢先, 提前使用
+anticipate    vt.预期/期望/占先/抢先/提前使用
 >>>
-attach  vi.附加, 附上, 重视, 把..固定, 认为有重要性, 缠着
-attachment  附件, 依恋, 连接物, 扣押财产
-attack  攻击, 抨击, 疾病发作
-        vt.攻击, 抨击, 动手干
-        vi.攻击, 腐蚀
-attract vt.吸引, 引起
-        vi.吸引, 有吸引力
+attach  vi.附加/附上/重视/把..固定/认为有重要性/缠着
+attachment  附件/依恋/连接物/扣押财产
+attack  攻击/抨击/疾病发作
+        vt.攻击/抨击/动手干
+        vi.攻击/腐蚀
+attract vt.吸引/引起
+        vi.吸引/有吸引力
 >>>
-militia     民兵组织, 自卫队, 义勇军, 国民军
-missile     导弹, 发射物, 投掷物
-mobilize    v.动员, 调动, 鼓动, 组织, 集合, 使..流通
+militia     民兵组织/自卫队/义勇军/国民军
+missile     导弹/发射物/投掷物
+mobilize    v.动员/调动/鼓动/组织/集合/使..流通
 >>>
-damp    潮湿, 湿气
+damp    潮湿/湿气
         adj.潮湿的
-        vt.使潮湿, 使阻尼, 使沮丧, 抑制
-dampen  v.抑制, 使..沮丧, 使..潮湿
-soak    v.浸泡, 浸湿
-humid   adj.潮湿的, 湿润的, 多湿气的
+        vt.使潮湿/使阻尼/使沮丧/抑制
+dampen  v.抑制/使..沮丧/使..潮湿
+soak    v.浸泡/浸湿
+humid   adj.潮湿的/湿润的/多湿气的
 >>>
-luxury  奢侈, 奢华, 奢侈品, 享受
+luxury  奢侈/奢华/奢侈品/享受
         adj.奢侈的
-auxiliary   助动词, 辅助者, 辅助物, 附属机构
-            adj.辅助的, 副的, 附加的
+auxiliary   助动词/辅助者/辅助物/附属机构
+            adj.辅助的/副的/附加的
 assistant
 lullaby     摇篮曲
 >>>
-outstanding adj.杰出的, 显著的, 未解决的, 未偿付的        d=5
-excellent   adj.卓越的, 极好的, 杰出的                   d=4
-good        adj.好, 很好的, 优良的                       d=3
-superb      adj.极好的, 华丽的, 宏伟的
-magnificent adj.高尚的, 华丽的, 壮阔的, 宏伟的
-remarkable  adj.卓越的, 非凡的, 值得注意的
-awesome     adj.令人敬畏的, 使人畏惧的, 可怕的, 极好的
-eminent     adj.杰出的, 有名的, 显赫的
-prominent   adj.杰出的, 著名的, 突出的, 引人注目的
+outstanding adj.杰出的/显著的/未解决的/未偿付的        d=5
+excellent   adj.卓越的/极好的/杰出的                   d=4
+good        adj.好/很好的/优良的                       d=3
+superb      adj.极好的/华丽的/宏伟的
+magnificent adj.高尚的/华丽的/壮阔的/宏伟的
+remarkable  adj.卓越的/非凡的/值得注意的
+awesome     adj.令人敬畏的/使人畏惧的/可怕的/极好的
+eminent     adj.杰出的/有名的/显赫的
+prominent   adj.杰出的/著名的/突出的/引人注目的
 >>>
 terrible
 frightful
 awful
 
 >>>
-agnoy       极度痛苦
+agony       极度痛苦
             e.extremely physical or mental pain or suffering
-miserable   adj.悲惨的, 痛苦的, 卑鄙的
+miserable   adj.悲惨的/痛苦的/卑鄙的
 irony       讽刺
             e.a situation in which something which was intended to have a particular result has the opposite or a very different result
 >>>
-outrage   愤怒, 愤慨, 暴行, 侮辱
-          vt.凌辱, 强奸, 对..施暴行, 激起愤怒
-fury      愤怒, 怒火, 暴怒
-indignant adj.愤怒的, 愤慨的
+outrage     愤怒/愤慨/暴行/侮辱
+            vt.凌辱/强奸/对..施暴行/激起愤怒
+fury        愤怒/怒火/暴怒
+furious     adj.狂怒的/恼怒的
+indignant   adj.愤怒的/愤慨的
 >>>
-grantee     受让人, 被授予者
-guarantee   保证, 担保, 保证人, 保证书
-            vt.保证, 担保
-assurance   保证, 担保, 确信, 自信, 保险, 厚脸皮, 无耻
+grantee     受让人/被授予者
+guarantee   保证/担保/保证人/保证书
+            vt.保证/担保
+assurance   保证/担保/确信/自信/保险/厚脸皮/无耻
 >>>
-retreat 撤退, 休息寓所
-        vt.退(棋), 使后退
-        vi.撤退, 退避, 向后倾
-recede  vi.后退, 减弱
+retreat 撤退/休息寓所
+        vt.退(棋)/使后退
+        vi.撤退/退避/向后倾
+recede  vi.后退/减弱
         vt.撤回
-cede    vt.放弃, 割让(领土)
+cede    vt.放弃/割让(领土)
 cease   停止
-        v.停止, 终止, 结束
+        v.停止/终止/结束
 >>>
-vast    adj.广阔的, 巨大的, 大量的, 巨额的
-huge    adj.巨大的, 庞大的, 无限的
-giant   adj.巨大的, 巨人般的
-enormous    adj.巨大的, 庞大的, 凶暴的, 极恶的
-tremendous  adj.巨大的, 极大的, 惊人的, 非常的, 广大的
-massive     adj.大量的, 巨大的, 厚重的, 魁伟的
-extensive   adj.广泛的, 大量的, 广阔的
+vast        adj.广阔的/巨大的/大量的/巨额的
+huge        adj.巨大的/庞大的/无限的
+giant       adj.巨大的/巨人般的
+enormous    adj.巨大的/庞大的/凶暴的/极恶的
+tremendous  adj.巨大的/极大的/惊人的/非常的/广大的
+massive     adj.大量的/巨大的/厚重的/魁伟的
+extensive   adj.广泛的/大量的/广阔的
+immense     adj.巨大的/庞大的/硕大的
+bulky       adj.庞大的/笨重的/高大肥胖的
 >>>
-tidy    小桌布, 椅子的背罩
-        adj.整齐的, 整洁的
-        vi.整理, 收拾
-neat    adj.灵巧的, 整洁的, 优雅的, 齐整的, 平滑的
-natty   adj.考虑周到的, 整洁的, 敏捷的, 考虑周到的, 清楚的
+tidy    小桌布/椅子的背罩
+        adj.整齐的/整洁的
+        vi.整理/收拾
+neat    adj.灵巧的/整洁的/优雅的/齐整的/平滑的
+natty   adj.考虑周到的/整洁的/敏捷的/考虑周到的/清楚的
 >>>
-conscious   adj.清醒的, 有意识的, 故意的
-conscientious   adj.认真的, 尽责的, 有责任心的, 勤勉认真的
+conscious   adj.清醒的/有意识的/故意的
+conscientious   adj.认真的/尽责的/有责任心的/勤勉认真的
 >>>
-perpetuate  vt.使不朽, 保持
+perpetuate  vt.使不朽/保持
             adj.长存的
-perpetual   adj.永久的, 不断的, 四季开花的, 无期限的
-eternity    不朽, 永世, 永恒, 来世, 来生
-eternal     adj.永恒的, 不朽的
+perpetual   adj.永久的/不断的/四季开花的/无期限的
+eternity    不朽/永世/永恒/来世/来生
+eternal     adj.永恒的/不朽的
 permanent   烫发
-            adj.永久的, 永恒的, 不变的
-everlasting adj.永恒的, 接连不断的
+            adj.永久的/永恒的/不变的
+everlasting adj.永恒的/接连不断的
 >>>
-prison  监狱, 监禁, 拘留所
-        vt.监禁, 关押
-jail    监狱, 监牢, 拘留所
-        vt.监禁, 下狱
-detain  vt.拘留, 留住, 耽搁
+prison  监狱/监禁/拘留所
+        vt.监禁/关押
+jail    监狱/监牢/拘留所
+        vt.监禁/下狱
+detain  vt.拘留/留住/耽搁
 >>>
 barren      e.unable to produce plants or fruit
             e.unable to have children or young animals
             e.not creating or producing anything new
-infertile   e.An infertile person, animal or plant cannot have babies, produce young, or produce new plants
+infertile   e.An infertile person/animal or plant cannot have babies/produce young/or produce new plants
 fertile     e.fertile land can produce a large number of good quality crops
 >>>
-tragic  adj.悲剧的, 悲痛的, 不幸的
-tragedy 悲剧, 灾难, 惨案
+tragic  adj.悲剧的/悲痛的/不幸的
+tragedy 悲剧/灾难/惨案
 comedy  喜剧
-comet   彗星, 扫帚星
+comet   彗星/扫帚星
 >>>
-extend  v.延伸, 扩大, 伸出, 伸展, 给予
-export  输出, 出口, 出口商品
-        v.输出, 出口
+extend  v.延伸/扩大/伸出/伸展/给予
+export  输出/出口/出口商品
+        v.输出/出口
 import  进口
 >>>
-compromise  妥协, 让步, 折衷, 和解
-            v.妥协, 让步, 危害
-concession  让步, 特许, 承认, 退位, 给折扣
+compromise  妥协/让步/折衷/和解
+            v.妥协/让步/危害
+concession  让步/特许/承认/退位/给折扣
 >>>
-correspondence  来往信件, 通信联系, 相关, 相似
+correspondence  来往信件/通信联系/相关/相似
 >>>
-fair    展览会, 市集, 美人
+fair    展览会/市集/美人
         v.转晴
-        adj.公平的, 美丽的, 白皙的, 晴朗的
-unfair  adj.不公平的, 不公正的
-unjust  adj.不公平的, 不公正的, 非正义的
+        adj.公平的/美丽的/白皙的/晴朗的
+unfair  adj.不公平的/不公正的
+unjust  adj.不公平的/不公正的/非正义的
 >>>
-simulate    vt.模仿, 假装, 冒充
-            adj.模仿的, 假装的
-analogue    类似物, 类似情况, 对等的人
-            adj.类似的, 相似物的, 模拟计算机的
-mimic       效仿者, 模仿者, 仿制品, 小丑
-            vt.模仿, 摹拟
-            adj.模仿的, 模拟的, 假装的
-stimulate   vt.刺激, 鼓励, 鼓舞
-            vi.起刺激作用, 起促进作用
-stimulant   兴奋剂, 刺激物, 酒精饮料
-            adj.激励的, 使人兴奋的
-inspire     vt.激发, 鼓舞, 启示, 产生, 使生灵感
+simulate    vt.模仿/假装/冒充
+            adj.模仿的/假装的
+analogue    类似物/类似情况/对等的人
+            adj.类似的/相似物的/模拟计算机的
+mimic       效仿者/模仿者/仿制品/小丑
+            vt.模仿/摹拟
+            adj.模仿的/模拟的/假装的
+stimulate   vt.刺激/鼓励/鼓舞
+            vi.起刺激作用/起促进作用
+stimulant   兴奋剂/刺激物/酒精饮料
+            adj.激励的/使人兴奋的
+inspire     vt.激发/鼓舞/启示/产生/使生灵感
 >>>
-slum    贫民窟, 陋巷, 脏乱的地方
+slum    贫民窟/陋巷/脏乱的地方
         vi.去贫民窟
-slam    猛击, 砰然声
-        v.砰地关上, 猛力抨击
+slam    猛击/砰然声
+        v.砰地关上/猛力抨击
 >>>
-layman  外行, 门外汉, 俗人, 一般信徒
-amateur 爱好者, 业余爱好者, 外行
-        adj.业余的, 外行的
+layman  外行/门外汉/俗人/一般信徒
+amateur 爱好者/业余爱好者/外行
+        adj.业余的/外行的
 >>>
-overcome    v.克服, 胜过
-overturn    倾覆, 周转, 破灭
-            v.推翻, 倾覆, 破坏
-overpass    天桥, 陆桥, 跨线桥
-            v.超越, 胜过, 忽略
-overtake    v.超车, 赶上, 压倒, 突然来袭
+overcome    v.克服/胜过
+overturn    倾覆/周转/破灭
+            v.推翻/倾覆/破坏
+overpass    天桥/陆桥/跨线桥
+            v.超越/胜过/忽略
+overtake    v.超车/赶上/压倒/突然来袭
 override    代理佣金
-            vt.推翻, 不顾, 践踏
-overvalue   vt.对..估值过高, 过分重视
+            vt.推翻/不顾/践踏
+overvalue   vt.对..估值过高/过分重视
 >>> body
 head    头
-neck    颈, 脖子
-waist   腰, 腰部
-ankle   踝, 脚踝
+neck    颈/脖子
+waist   腰/腰部
+ankle   踝/脚踝
 >>>
-lend    e.to give something to someone for a short period of time, expecting it to be given back (out)
+lend    e.to give something to someone for a short period of time/expecting it to be given back (out)
 borrow  e.to get or receive something from someone with the intention of giving it back after a period of time (in)
-loan    e.an amount of money that is borrowed, often from the bank, and has to paid back,
+loan    e.an amount of money that is borrowed/often from the bank/and has to paid back,
         e.usually together with an extra amount of money that you have to pay as a charge for borrowing
 >>>
-perceive    v.察觉, 感觉, 理解, 认知
-conceive    v.怀孕, 设想, 构思, 考虑, 以为
-receive     v.收到, 接待, 接纳
-deceive     v.欺骗, 行骗
-deceit      欺骗, 诡计, 谎言
-perception  洞察力, 察觉力
+perceive    v.察觉/感觉/理解/认知
+conceive    v.怀孕/设想/构思/考虑/以为
+receive     v.收到/接待/接纳
+deceive     v.欺骗/行骗
+deceit      欺骗/诡计/谎言
+perception  洞察力/察觉力
 >>>
-leisure     闲暇, 休闲, 空闲, 安逸
-            adj.空闲的, 有闲的, 业余的
-pastime     娱乐, 消遣
+leisure     闲暇/休闲/空闲/安逸
+            adj.空闲的/有闲的/业余的
+pastime     娱乐/消遣
 >>>
-pledge      誓言, 保证, 抵押, 抵押品
-            v.保证, 发誓, 抵押, 典当
-promise     许诺, 允诺, 希望
-            v.允诺, 许诺, 给人以..的指望或希望
+pledge      誓言/保证/抵押/抵押品
+            v.保证/发誓/抵押/典当
+promise     许诺/允诺/希望
+            v.允诺/许诺/给人以..的指望或希望
 >>>
-bit         比特, 少量, 老一套, 一点, 一块
-            adj.很小的, 微不足道的
-bitter      苦味, 苦啤酒
-            adj.苦的, 痛苦的, 尖刻的, 充满仇恨的
+bit         比特/少量/老一套/一点/一块
+            adj.很小的/微不足道的
+bitter      苦味/苦啤酒
+            adj.苦的/痛苦的/尖刻的/充满仇恨的
             vt.使变苦
-bitterly    adv.非常, 极其, 愤怒地, 苦涩地, 悲痛地, 残酷地, 怨恨地
+bitterly    adv.非常/极其/愤怒地/苦涩地/悲痛地/残酷地/怨恨地
 >>>
-regret      遗憾, 抱歉, 悲叹
-            v.后悔, 惋惜, 哀悼
-repent      v.后悔, 忏悔
-    @Marry in haste, repent is hurried.
+regret      遗憾/抱歉/悲叹
+            v.后悔/惋惜/哀悼
+repent      v.后悔/忏悔
+    @Marry in haste/repent is hurried.
 >>>
-regard      注重, 尊重, 问候, 凝视
-            vt.注重, 考虑, 看待, 尊敬, 把..看作, 与..有关
-regardless  adv.不顾后果地, 不管怎样, 无论如何, 不惜费用地
-            adj.不管的, 不顾的, 不注意的
+regard      注重/尊重/问候/凝视
+            vt.注重/考虑/看待/尊敬/把..看作/与..有关
+regardless  adv.不顾后果地/不管怎样/无论如何/不惜费用地
+            adj.不管的/不顾的/不注意的
 >>>
-severe      adj.严峻的, 严厉的, 剧烈的, 苛刻的
-serious     adj.严肃的, 严重的, 认真的, 庄重的, 危急的
+severe      adj.严峻的/严厉的/剧烈的/苛刻的
+serious     adj.严肃的/严重的/认真的/庄重的/危急的
 >>>
-approve     v.批准, 赞成, 准许
-approval    批准, 赞成, 认可
+approve     v.批准/赞成/准许
+approval    批准/赞成/认可
 >>>
-silk    丝绸, 蚕丝, 丝织物
-        adj.丝的, 丝绸的, 丝制的
-slick   adj.光滑的, 华而不实的, 聪明的, 熟练的, 老套的
-        adv.灵活地, 聪明地
-        v.使光滑, 使漂亮
+silk    丝绸/蚕丝/丝织物
+        adj.丝的/丝绸的/丝制的
+slick   adj.光滑的/华而不实的/聪明的/熟练的/老套的
+        adv.灵活地/聪明地
+        v.使光滑/使漂亮
 >>>
-habit   习惯, 习性, 嗜好
-hobby   嗜好, 业余爱好
+habit   习惯/习性/嗜好
+hobby   嗜好/业余爱好
 >>>
-disastrous  adj.灾难性的, 损失惨重的, 悲伤的
-disaster    灾难, 灾祸, 不幸
+disastrous  adj.灾难性的/损失惨重的/悲伤的
+disaster    灾难/灾祸/不幸
 >>>
 as soon as  一..就..
-as far as   至于, 直到, 远到, 就..而言
-as well as  也, 和..一样, 不但..而且
-as long as  只要, 和..一样长
+as far as   至于/直到/远到/就..而言
+as well as  也/和..一样/不但..而且
+as long as  只要/和..一样长
 >>>
 entryway    入口
-hall        大厅, 大堂
-            e.the room just inside the house, apartment, or other building that leads to other room and usually to the stairs
-lobby       前厅, 休息厅
-lounge      休息室, 休息厅
+hall        大厅/大堂
+            e.the room just inside the house/apartment/or other building that leads to other room and usually to the stairs
+lobby       前厅/休息厅
+lounge      休息室/休息厅
 arcade      拱廊
             e.a covered passage joined into a building on one side and with columns and arches along the other side
 archway     拱门
             e.an entrance or passage formed by a arch
 concourse   中央大厅
             e.a large space or room in a public building such as a station or airport that people meet in or pass through
-corridor    走廊, 楼道
-            e.a long passage in a building or train, especially with rooms on either side
+corridor    走廊/楼道
+            e.a long passage in a building or train/especially with rooms on either side
 porch
-foyer       门厅, 休息室
-            e.a large open area just inside the entrance of a public building such as a theatre or a hotel, where people can wait and meet each other
+foyer       门厅/休息室
+            e.a large open area just inside the entrance of a public building such as a theatre or a hotel/where people can wait and meet each other
 >>>
-modest  adj.谦逊的, 谦虚的
-        e.not large in size or amount, or not expensive
+modest  adj.谦逊的/谦虚的
+        e.not large in size or amount/or not expensive
         e.not usually talking about or making obvious your own abilities and achievements
-modesty 谦虚, 谦逊, 虚心
-humble  adj.谦卑的, 谦逊的, 卑微的, 低贱的
+modesty 谦虚/谦逊/虚心
+humble  adj.谦卑的/谦逊的/卑微的/低贱的
         e.not proud or not believing that you're important
         e.poor or of a low social rank
-        e.ordinary, not special or very important
+        e.ordinary/not special or very important
 >>>
 deer    鹿
-peer    同辈, 同行, 同等级
+peer    同辈/同行/同等级
         v.窥视
-peel    果皮, 外皮
-        v.剥落, 脱掉, 剥去
-heel    跟, 后跟, 鞋跟
-        v.给鞋子修理后跟, 倾斜, 倾侧
+peel    果皮/外皮
+        v.剥落/脱掉/剥去
+heel    跟/后跟/鞋跟
+        v.给鞋子修理后跟/倾斜/倾侧
 wheel   轮子
 >>>
-appeal  呼吁, 申诉, 情趣
-        v.上诉, 呼吁, 申诉
-appear  v.出现, 似乎, 呈现, 显现
+appeal  呼吁/申诉/情趣
+        v.上诉/呼吁/申诉
+appear  v.出现/似乎/呈现/显现
 >>>
-access  访问, 进入, 使用权
-        vt.使用, 存取, 接近
-assess  vt.评估, 估价, 对..征税
-estimate    估计, 估价, 判断, 看法
-            v.估计, 估量, 判断, 评价
-eliminate   v.消除, 消灭, 淘汰
+access  访问/进入/使用权
+        vt.使用/存取/接近
+assess  vt.评估/估价/对..征税
+estimate    估计/估价/判断/看法
+            v.估计/估量/判断/评价
+eliminate   v.消除/消灭/淘汰
 >>>
-fraction    分数, 小部分, 少量, 稍微
-fracture    破裂, 断裂, 分裂, 骨折
-            v.破裂, 折断, 分裂
-fractious   adj.易怒的, 任性的, 倔强的, 难以对待的
+fraction    分数/小部分/少量/稍微
+fracture    破裂/断裂/分裂/骨折
+            v.破裂/折断/分裂
+fractious   adj.易怒的/任性的/倔强的/难以对待的
 >>>
 spectator   (比赛的)观众
-spectacle   演出, 演出场地
-            e.an unusual or unexpected event or situation that attracts attention, interest or disapproval
+spectacle   演出/演出场地
+            e.an unusual or unexpected event or situation that attracts attention/interest or disapproval
             e.a public event or show that is exciting to watch; an exciting appearance
-spectacular adj.壮观的, 惊人的, 公开展示的
+spectacular adj.壮观的/惊人的/公开展示的
 >>>
-sting   刺, 刺痛, 讽刺
-        v.刺痛, 刺, 使疼痛, 感到疼痛
+sting   刺/刺痛/讽刺
+        v.刺痛/刺/使疼痛/感到疼痛
         e.to cause sharp but usually temporary pain
-stun    昏迷, 打昏, 惊倒, 令人惊叹的事物
-        vt.使震惊, 打昏, 给人深刻印象
+stun    昏迷/打昏/惊倒/令人惊叹的事物
+        vt.使震惊/打昏/给人深刻印象
         e.to shock or surprise someone very much
-stiff   死尸, 令人讨厌者, 劳动者
-        adj.僵硬的, 呆板的, 坚硬的, 严厉的
-        adv.极其, 僵硬地, 彻底地
+stiff   死尸/令人讨厌者/劳动者
+        adj.僵硬的/呆板的/坚硬的/严厉的
+        adv.极其/僵硬地/彻底地
         e.firm or hard
         e.not easily bent or moved
-        e.if you are stiff or part of your body is stiff, your muscles hurt when they are moved
+        e.if you are stiff or part of your body is stiff/your muscles hurt when they are moved
 >>>
 bound   e.certain or extremely likely to happen
         e.to be seriously intending to do something
@@ -649,37 +652,37 @@ bounce  e.to (cause to)move up or away after hitting a surface
         e.to move in an energetic and enthusiastic manner
 border  e.the line that divides one country from another
 >>>
-flatten v.弄平, 打倒
-flatter v.奉承, 吹捧, 谄媚
+flatten v.弄平/打倒
+flatter v.奉承/吹捧/谄媚
 >>>
-crime       犯罪, 罪行, 刑事犯罪
+crime       犯罪/罪行/刑事犯罪
 criminal    罪犯
-            adj.刑事的, 犯罪的, 罪恶的
-crisis  危机, 风波
+            adj.刑事的/犯罪的/罪恶的
+crisis  危机/风波
         e.an extremely difficult or dangerous point in a situation
-        e.a time of great disagreement, confusion or suffering
+        e.a time of great disagreement/confusion or suffering
 crises  e.plural of crisis
-critic  评论家, 批评家
+critic  评论家/批评家
         e.someone who says that they do not approve of someone or something
-        e.someone whose job is to give their opinion about something, especially films, books, music, etc
-criticism   批判, 批评, 意见
+        e.someone whose job is to give their opinion about something/especially films/books/music/etc
+criticism   批判/批评/意见
             e.the act of saying that something or someone is bad
-            e.the act of giving your opinion or judgement about the good or bad qualities of something or someone, especially books, films, etc
-critically  adv.严重, 危重
+            e.the act of giving your opinion or judgement about the good or bad qualities of something or someone/especially books/films/etc
+critically  adv.严重/危重
             e.in a way that is very bad or serious
-criticize   v.批评, 批判, 指责
+criticize   v.批评/批判/指责
             e.to express disapproval of someone or something
-            e.to give an opinion or judgment about a book, film, etc
-critique    批评, 批判
-            v.批评, 批判
+            e.to give an opinion or judgment about a book/film/etc
+critique    批评/批判
+            v.批评/批判
 >>>
 capital     首都
 caption     标题
-captain     船长, 队长, 首领
+captain     船长/队长/首领
 >>>
-delicate    adj.精致的, 娇贵的
-dedicate    v.奉献, 贡献
-deliberate  v.商榷, 商讨, 推敲
+delicate    adj.精致的/娇贵的
+dedicate    v.奉献/贡献
+deliberate  v.商榷/商讨/推敲
             adj.故意的
 >>>
 brake
@@ -734,11 +737,11 @@ prosperity
 boom
 flourish
 >>>
-mode    模式, 方式
-model   模型, 型号
-modal   adj.模式的, 形态的, 形式的
-mold    模具, 霉菌
-        v.塑造, 对..影响重大, 将..塑造成
+mode    模式/方式
+model   模型/型号
+modal   adj.模式的/形态的/形式的
+mold    模具/霉菌
+        v.塑造/对..影响重大/将..塑造成
 >>>
 illuminate
 kindle
@@ -749,52 +752,58 @@ justify
 frustration
 dispirited
 >>>
-smell
-odor
+smell       气味/气息(香臭)
+            v.闻/发臭
+odor        气味(臭)
+odour       气味(臭)
+scent       香味/香水
+            v.闻到/发觉/发出..气味
+fragrance   香味/香气/芬香
+fragrant    adj.香的/芳香的
 >>>
 important
 essential
 vital
 >>>
 gage    抵押品
-mortgage    抵押, 典当, 按揭抵押
+mortgage    抵押/典当/按揭抵押
 >>>
-fancy   幻想, 想象力, 爱好
-        v.想做, 想做, 喜爱, 认为
-        adj.复杂的, 昂贵的, 精致的, 花俏的, 想象的
-fascinate   v.入迷, 迷住, 使着迷
-fantastic   adj.奇妙的, 空想的, 异想天开的, 古怪的, 不可思议的
+fancy   幻想/想象力/爱好
+        v.想做/想做/喜爱/认为
+        adj.复杂的/昂贵的/精致的/花俏的/想象的
+fascinate   v.入迷/迷住/使着迷
+fantastic   adj.奇妙的/空想的/异想天开的/古怪的/不可思议的
 >>>
-coach   教练, 长途汽车
-        v.训练, 指导
-coast   海边, 海岸
-        v.滑行, 沿岸滑行
-roast   烤肉, 烘烤
-        v.烤, 焙, 烘, 嘲笑, 吐槽
-        adj.烘烤的, 烤过的
+coach   教练/长途汽车
+        v.训练/指导
+coast   海边/海岸
+        v.滑行/沿岸滑行
+roast   烤肉/烘烤
+        v.烤/焙/烘/嘲笑/吐槽
+        adj.烘烤的/烤过的
 >>>
 utility     公共设施
-facility    设施, 设备
+facility    设施/设备
 sanitation  卫生设施
 >>>
-merchandise 商品, 货物
-            v.买卖, 交易
-commodity   商品, 货物
+merchandise 商品/货物
+            v.买卖/交易
+commodity   商品/货物
 >>>
-lieutenant  中尉, 上尉
+lieutenant  中尉/上尉
 colonel     上校
 general     将军
 >>>
-sank        沉没, 下沉
-shrunk      收缩, 压缩, 缩水
-decline     下降, 衰退
-slash       削减, 砍伤
-slump       暴跌, 陷落
-steep       陡峭, 急剧下降
-plunge      跳水, 下落, 陷入, 骤降
-fall        下降, 跌落
-drop        下降, 落下
-sag         下垂, 下弯 adj.sagging
+sank        沉没/下沉
+shrunk      收缩/压缩/缩水
+decline     下降/衰退
+slash       削减/砍伤
+slump       暴跌/陷落
+steep       陡峭/急剧下降
+plunge      跳水/下落/陷入/骤降
+fall        下降/跌落
+drop        下降/落下
+sag         下垂/下弯 adj.sagging
 wane
 >>>
 agent
@@ -811,73 +820,73 @@ remain
 outcome
 consequence
 >>>
-crab    蟹, 螃蟹
+crab    蟹/螃蟹
 crawl   爬行
-crack   裂纹, 爆裂
+crack   裂纹/爆裂
 clash   冲突
-crash   紧急, 摔坏
-crush   粉碎, 压碎, 征服
+crash   紧急/摔坏
+crush   粉碎/压碎/征服
 cruel   残忍的
-crust   壳, 表面
-curse   诅咒, 咒骂
+crust   壳/表面
+curse   诅咒/咒骂
 >>>
-pump    v.追问, 盘问, 输送, 涌出
-dump    v.倾倒, 丢下, 抛弃, 分手
-mold    v.浇筑, 塑造, 对..影响重大
+pump    v.追问/盘问/输送/涌出
+dump    v.倾倒/丢下/抛弃/分手
+mold    v.浇筑/塑造/对..影响重大
 shape
 >>>
-train   火车, 行列
-        v.培养, 训练, 瞄准
-trail   小道, 踪迹
+train   火车/行列
+        v.培养/训练/瞄准
+trail   小道/踪迹
         v.追踪
-trial   试验, 审讯
-trait   特点, 特征
-tribal  部落的, 种族的
+trial   试验/审讯
+trait   特点/特征
+tribal  部落的/种族的
 >>>
 stable  (stability)
 steady  (steadiness)
 >>
 serve       v.服务
 server      服务器
-sever       v.切断, 割裂
-severity    严重, 严重程度
+sever       v.切断/割裂
+severity    严重/严重程度
 >>
 anger   愤怒
 angel   天使
-angle   角度, 钓
+angle   角度/钓
 >>>
-sacred  adj.神圣的, 庄严的
+sacred  adj.神圣的/庄严的
 scare   nv.惊慌
 >>>
 work
 war
 world
 >>>
-hint    暗示, 隐射
+hint    暗示/隐射
 hind    雌鹿
-        adj.后的, 后部的
-hinge   铰链, 关键, 转折点, 枢纽, 中枢
-hinder  v.阻碍, 打扰
+        adj.后的/后部的
+hinge   铰链/关键/转折点/枢纽/中枢
+hinder  v.阻碍/打扰
 >>>
 continue
 continent
 >>>
-school      [英]中小学, [美]大学内的学院 (graduate school 研究生院)
+school      [英]中小学/[美]大学内的学院 (graduate school 研究生院)
 university  综合性大学
-college     大专, 专科 (没有学位)
+college     大专/专科 (没有学位)
 institute   学院 (MIT CIT)
-academic    科研机构, 艺术院校 (中科院 中美院)
+academic    科研机构/艺术院校 (中科院 中美院)
 >>>
 optimistic   adj.乐观的
 pessimistic  adj.悲观的
-opponent     对手, 竞争者
+opponent     对手/竞争者
 optimise     优化
 >>>
 moral       (伦理)道德
 ethics      (职业)道德
 >>>
 vague       模糊
-dim         昏暗, 暗淡, 模糊
+dim         昏暗/暗淡/模糊
 blurry      模糊
 >>>
 escape
@@ -904,94 +913,153 @@ disadvantages
 weaknesses
 shortcomings
 >>>
-serve       v.服务, 服侍
-served      v.服务, 服侍, 送达
-severe      adj.严重的, 剧烈的
-severed     v.切断, 断绝, 分离
+serve       v.服务/服侍
+served      v.服务/服侍/送达
+severe      adj.严重的/剧烈的
+severed     v.切断/断绝/分离
 >>>
-sophistry       诡辩, 诡辩术
-sophisticate    adj.久经世故的, 复杂的, 精致的
+sophistry       诡辩/诡辩术
+sophisticate    adj.久经世故的/复杂的/精致的
 >>>
-aid     救助, 援助
-        v.帮助, 援助
-acid    adj.酸的, 尖酸的
+aid     救助/援助
+        v.帮助/援助
+acid    adj.酸的/尖酸的
 sour    adj.酸的
 >>>
-lump    肿块, 块, 隆起, 笨重的人
-        v.结块, 把..归为一起, 容忍, 忍耐
-lung    肺, 肺脏, 空地
+lump    肿块/块/隆起/笨重的人
+        v.结块/把..归为一起/容忍/忍耐
+lung    肺/肺脏/空地
 >>>
-axis    轴, 轴线, 坐标轴
+axis    轴/轴线/坐标轴
 axe     斧头
-axes    axis复数, axe复数
+axes    axis复数/axe复数
 >>>
-ethic       伦理, 道德
-ethnic      adj.民族的, 种族的
-esthetic    adj.美学的, 审美的, 有美感的
+ethic       伦理/道德
+ethnic      adj.民族的/种族的
+esthetic    adj.美学的/审美的/有美感的
 >>>
-inquire     v.询问, 调查
-enquire     v.询问, 查询
+inquire     v.询问/调查
+enquire     v.询问/查询
 >>>
 timber      木材
 tremble     颤抖
-            v.颤抖, 颤动
-tumble      v.倒塌, 倒台, 下跌, 翻到
-stumble     v.绊倒, 蹒跚, 瘸
+            v.颤抖/颤动
+tumble      v.倒塌/倒台/下跌/翻到
+stumble     v.绊倒/蹒跚/瘸
 shiver      v.颤抖
 >>>
-relieve     v.缓解, 减轻, 缓和, 免除
-relief      缓解, 解脱, 宽恕
+relieve     v.缓解/减轻/缓和/免除
+relief      缓解/解脱/宽恕
 >>>
 gene        基因
 genetic     adj.基因的
-genuine     adj.真正, 真诚的
+genuine     adj.真正/真诚的
 genius      天才
 >>>
-rigid       adj.死板的, 呆板的 生硬的
-stubborn    adj.顽固的, 固执的, 倔强的 (坚定不移 褒义)
-obstinate   adj.顽固的, 执拗的, 棘手的 (顽固不化 贬义)
-obstacle    障碍, 障碍物
+rigid       adj.死板的/呆板的 生硬的
+stubborn    adj.顽固的/固执的/倔强的 (坚定不移 褒义)
+obstinate   adj.顽固的/执拗的/棘手的 (顽固不化 贬义)
+obstacle    障碍/障碍物
 >>>
-erect   v.直立, 竖起, 挺起, 勃起
-erupt   v.爆发, 喷出, 突然发生
+erect   v.直立/竖起/挺起/勃起
+erupt   v.爆发/喷出/突然发生
 >>>
-rude        adj.无礼的, 粗鲁的
+rude        adj.无礼的/粗鲁的
 ruth        adj.怜悯
-ruthless    adj.残酷无情的, 残忍的
+ruthless    adj.残酷无情的/残忍的
 >>>
-enthusiastic
-passionate
-affectionate
+enthusiastic    adj.热情的/热心的/热烈的
+passionate      adj.热情的/易怒的
+affectionate    adj.亲热的/亲昵的
+affection       感情/慈爱/关怀
+attachment      依恋/爱慕/附件/附加物
 >>>
-glance  一瞥, 匆匆一看
-glare   瞪视, 怒视
-gaze    凝视, 注视
+glance  一瞥/匆匆一看
+glare   瞪视/怒视
+gaze    凝视/注视
 >>>
 landlord    房东
-tenant      租客, 房客
-lieutenant  中尉, 海军上尉, 陆军中尉
+tenant      租客/房客
+lieutenant  中尉/海军上尉/陆军中尉
 >>>
-miser       吝啬鬼, 守财奴
-misery      悲惨, 痛苦, 苦难
-miserable   adj.悲惨的, 辛酸的
-miserably   adv.可悲地, 非常不幸地
+miser       吝啬鬼/守财奴
+misery      悲惨/痛苦/苦难
+miserable   adj.悲惨的/辛酸的
+miserably   adv.可悲地/非常不幸地
 >>>
-presence    存在, 出席, 出场, 风度, 风采
-present     当下, 礼物
-            v.介绍, 呈递, 表达
-            adj.当前, 现在, 当今, 这次
+presence    存在/出席/出场/风度/风采
+present     当下/礼物
+            v.介绍/呈递/表达
+            adj.当前/现在/当今/这次
 >>>
-corrode     v.腐蚀, 侵蚀
-corrupt     v.败坏, 毁坏, 腐坏
-            adj.腐败的, 贪污的
-erupt       v.爆发, 喷发, 喷出
-erode       v.侵蚀, 腐蚀, 冲刷
+corrode     v.腐蚀/侵蚀
+corrupt     v.败坏/毁坏/腐坏
+            adj.腐败的/贪污的
+erupt       v.爆发/喷发/喷出
+erode       v.侵蚀/腐蚀/冲刷
 >>>
-rode        v.骑, 乘
+rode        v.骑/乘
 rope        绳子
 rope        礼袍
 >>>
-scar        疤痕, 伤疤
+scar        疤痕/伤疤
 scab        痂
-scarf       围巾, 头巾, 颈巾
+scarf       围巾/头巾/颈巾
 >>>
+bronze      青铜
+brass       黄铜
+>>>
+district    政府等机构出于行政管理等目的而明确划分的地区
+region      地球上/大气中具有自然分界中的区域
+area        整体中较大的/界线不分明的一部分
+section     城市/国家/天然界线形成的地区
+zone        科技用词 指圆形或弧形地带
+quarter     城市中具有相同性质或独特风味的地区 范围小于section
+>>>
+paradise    天堂/乐园/仙境
+parasite    寄生虫
+paralyze    (paralysis)
+>>>
+electric    电/电气车辆/带电体
+            adj.电的/电动的/发电的/导电的
+electronic  adj.电子的
+electricity 电/电能/强烈的感情/激动
+>>>
+quit        v.退出/放弃
+quiz        测验/恶作剧
+quilt       被子/被褥
+>>>
+opera       歌剧
+drama       戏剧
+>>>
+thought     思想/思维
+through     prep.通过/经过/透过
+thorough    adj.彻底的/完全的/仔细的/缜密的
+throughout  adv.始终/到处
+            prep.历来
+>>>
+search
+seek
+probe
+>>>
+aid         援助/帮助
+            v.援助/帮助
+amid        prep.在..之中
+acid        酸
+            adj.酸的
+sour        v.变酸/酸化
+            adj.酸的
+raid        袭击
+            v.袭击/进犯
+>>>
+odd     adj.奇/奇怪/单/奇数
+odds    赔率/胜算/可能性/不和/不平等
+>>>
+spite       恶意/怨恨
+            v.刁难/存心伤害
+despite     尽管/虽然
+>>>
+compact     契约/粉盒/合同
+            adj.紧凑的/简洁的
+treaty      条约/协定
+accord
