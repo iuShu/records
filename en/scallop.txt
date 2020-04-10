@@ -103,37 +103,37 @@ howl    嚎叫/怒号/嚎哭
 holy    神圣的东西
         adj.神圣的/圣洁的/至善的
 >>>
-litter  v.四处乱扔/乱丢垃圾/弄乱
-        垃圾/废弃物/杂物
-liberate    v.解放/营救/放出/释放
-lateral adj.侧面的/横向的
-        侧部
-        vt.横向传球
-literal adj.文字的
-illiterate 文盲
-        adj.文盲的/不识字的/无知的/外行的
+litter          v.四处乱扔/乱丢垃圾/弄乱
+                垃圾/废弃物/杂物
+liberate        v.解放/营救/放出/释放
+lateral         adj.侧面的/横向的
+                侧部
+                vt.横向传球
+literal         adj.文字的
+illiterate      文盲
+                adj.文盲的/不识字的/无知的/外行的
 irrespective    adj.不管的/无关的/不考虑的
-irrigate    灌溉
-irritate    v.激怒/刺激
+irrigate        灌溉
+irritate        v.激怒/刺激
 >>>
-inference 推论/推理
-infer   v.推断
-defer   v.推迟
-prolong v.延迟
+inference   推论/推理
+infer       v.推断
+defer       v.推迟
+prolong     v.延迟
 postpone    vi.延缓/延迟/延缓发作
             vt.使..延期/把..放在次要地位/把..放在后面
-denote  v.表示/象征
+denote      v.表示/象征
 devote
 >>>
-complex adj.复杂的
-perplex v.使困惑/使担忧/困扰
+complex  adj.复杂的
+perplex  v.使困惑/使担忧/困扰
 >>>
 mutual  adj.相互/互相
 >>>
-tow     v.拖/牵引/拽
-        拖船/麻的粗纤维
-toil    辛劳/劳累
-        v.辛苦工作/艰难地行进/劳累/劳苦
+tow         v.拖/牵引/拽
+            拖船/麻的粗纤维
+toil        辛劳/劳累
+            v.辛苦工作/艰难地行进/劳累/劳苦
 toilsome    adj.辛苦的/艰难的
 toilful     adj.艰难的/辛苦的/费力的
 >>>
@@ -401,6 +401,8 @@ fury        愤怒/怒火/暴怒
 furious     adj.狂怒的/恼怒的
 indignant   adj.愤怒的/愤慨的
 >>>
+grand       盛大/隆重/宏伟
+grant       v.授予/准予/准许
 grantee     受让人/被授予者
 guarantee   保证/担保/保证人/保证书
             vt.保证/担保
@@ -658,23 +660,15 @@ flatter v.奉承/吹捧/谄媚
 crime       犯罪/罪行/刑事犯罪
 criminal    罪犯
             adj.刑事的/犯罪的/罪恶的
-crisis  危机/风波
-        e.an extremely difficult or dangerous point in a situation
-        e.a time of great disagreement/confusion or suffering
-crises  e.plural of crisis
-critic  评论家/批评家
-        e.someone who says that they do not approve of someone or something
-        e.someone whose job is to give their opinion about something/especially films/books/music/etc
+crisis      危机/风波
+crises      plural of crisis
+critic      评论家/批评家
 criticism   批判/批评/意见
-            e.the act of saying that something or someone is bad
-            e.the act of giving your opinion or judgement about the good or bad qualities of something or someone/especially books/films/etc
 critically  adv.严重/危重
-            e.in a way that is very bad or serious
 criticize   v.批评/批判/指责
-            e.to express disapproval of someone or something
-            e.to give an opinion or judgment about a book/film/etc
 critique    批评/批判
             v.批评/批判
+criterion   标准/准则/规范
 >>>
 capital     首都
 caption     标题
@@ -1063,3 +1057,13 @@ compact     契约/粉盒/合同
             adj.紧凑的/简洁的
 treaty      条约/协定
 accord
+>>>
+cabin   小屋/客舱/船舱
+shed    小屋/棚屋
+hut     小屋/简易小屋
+cottage 小屋/村舍/小别墅
+inn     客栈/酒店
+>>>
+derive  v.源于/得自/获得/起源
+deprive v.剥夺/免职(特指圣职)
+>>>
